@@ -20,3 +20,7 @@ to take part in Commons infrastructure.
 
 This document is under active development. If you feel misrepresented or something has been
 miscommunicated, please open an issue or make a Pull Request!
+
+## Editing diagrams
+
+The program used to edit the "dia" files is [dia](http://dia-installer.de/).
