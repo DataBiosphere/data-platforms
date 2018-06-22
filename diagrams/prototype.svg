@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="23cm" height="19cm" viewBox="308 92 441 366" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="25cm" height="19cm" viewBox="308 92 486 366" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs/>
   <g id="Background">
     <g>
@@ -48,5 +48,9 @@
         <tspan x="380.569" y="367.953">Ontology</tspan>
       </text>
     </g>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 726.4 360.8 C 738.7,360.8 734.6,360.8 742.8,360.8 C 751,360.8 730.5,344.4 751,344.4 C 771.5,344.4 751,360.8 759.2,360.8 C 767.4,360.8 771.5,360.8 775.6,360.8 C 775.6,364.9 775.6,369 775.6,377.2 C 775.6,385.4 792,364.9 792,385.4 C 792,405.9 775.6,385.4 775.6,393.6 C 775.6,401.8 775.6,405.9 775.6,410 C 771.5,410 767.4,410 759.2,410 C 751,410 771.5,426.4 751,426.4 C 730.5,426.4 751,410 742.8,410 C 734.6,410 730.5,410 726.4,410 C 726.4,405.9 726.4,401.8 726.4,393.6 C 726.4,385.4 710,405.9 710,385.4 C 710,364.9 726.4,385.4 726.4,377.2 C 726.4,369 726.4,364.9 726.4,360.8z"/>
+    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="737" y="388.4">
+      <tspan x="737" y="388.4">Auth</tspan>
+    </text>
   </g>
 </svg>
