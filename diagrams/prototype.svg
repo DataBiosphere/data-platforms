@@ -1,64 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="22cm" height="18cm" viewBox="296 89 422 351" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="23cm" height="19cm" viewBox="308 92 441 366" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
   <g id="Background">
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="407" y="101">
-      <tspan x="407" y="101">Commons Alliance Components</tspan>
-    </text>
     <g>
-      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="297" y="125" width="420" height="314" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="507" y="285.9">
-        <tspan x="507" y="285.9"></tspan>
+      <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="424.36" y="105.308">
+        <tspan x="424.36" y="105.308">Commons Alliance Components</tspan>
       </text>
-    </g>
-    <g>
-      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 461 332.167 C 477,320.042 485,316 501,316 C 517,316 525,320.042 541,332.167 L 541,396.833 C 525,408.958 517,413 501,413 C 485,413 477,408.958 461,396.833 L 461,332.167z"/>
-      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 461 332.167 C 477,344.292 485,348.333 501,348.333 C 517,348.333 525,344.292 541,332.167"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="501" y="376.583">
-        <tspan x="501" y="376.583">Data Store</tspan>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" x="309.668" y="130.332" width="437.915" height="327.393" rx="0" ry="0"/>
+      <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="528.626" y="298.095">
+        <tspan x="528.626" y="298.095"></tspan>
       </text>
-    </g>
-    <g>
-      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="440.797,162 555.12,162 538.014,209 423.69,209 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="489.405" y="189.4">
-        <tspan x="489.405" y="189.4">Data Browser</tspan>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" fill-rule="evenodd" d="M 480.664 346.335 C 497.346,333.693 505.687,329.479 522.37,329.479 C 539.052,329.479 547.393,333.693 564.076,346.335 C 564.076,368.81 564.076,391.285 564.076,413.76 C 547.393,426.402 539.052,430.616 522.37,430.616 C 505.687,430.616 497.346,426.402 480.664,413.76 C 480.664,391.285 480.664,368.81 480.664,346.335z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" d="M 480.664 346.335 C 497.346,358.977 505.687,363.191 522.37,363.191 C 539.052,363.191 547.393,358.977 564.076,346.335"/>
+      <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="522.37" y="392.646">
+        <tspan x="522.37" y="392.646">Data Store</tspan>
       </text>
-    </g>
-    <g>
-      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 575 239 L 698.583,239 L 673.867,306 L 599.717,306 L 575,239z"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="636.792" y="268.5">
-        <tspan x="636.792" y="268.5">Tool</tspan>
-        <tspan x="636.792" y="284.5">Repository</tspan>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" fill-rule="evenodd" points="459.599,168.91 578.798,168.91 560.962,217.915 441.762,217.915 "/>
+      <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510.28" y="197.479">
+        <tspan x="510.28" y="197.479">Data Browser</tspan>
       </text>
-    </g>
-    <g>
-      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="579.75" y="152" width="120.25" height="67" rx="0" ry="0"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="591.775" y1="152" x2="591.775" y2="219"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="579.75" y1="158.7" x2="700" y2="158.7"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="645.888" y="184.85">
-        <tspan x="645.888" y="184.85">Analysis </tspan>
-        <tspan x="645.888" y="200.85">Workspace</tspan>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" fill-rule="evenodd" d="M 599.526 249.194 C 642.478,249.194 685.429,249.194 728.38,249.194 C 719.79,272.48 711.2,295.766 702.61,319.052 C 676.839,319.052 651.068,319.052 625.297,319.052 C 616.707,295.766 608.116,272.48 599.526,249.194z"/>
+      <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="663.954" y="279.953">
+        <tspan x="663.954" y="279.953">Tool</tspan>
+        <tspan x="663.954" y="296.635">Repository</tspan>
       </text>
-    </g>
-    <g>
-      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="485.786" cy="265" rx="56.2144" ry="32"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="485.786" y1="297" x2="542.001" y2="297"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="485.786" y="261">
-        <tspan x="485.786" y="261">Metadata</tspan>
-        <tspan x="485.786" y="277">Querying</tspan>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" x="604.479" y="158.483" width="125.379" height="69.8578" rx="0" ry="0"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" x1="617.017" y1="158.483" x2="617.017" y2="228.341"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" x1="604.479" y1="165.469" x2="729.858" y2="165.469"/>
+      <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="673.438" y="192.735">
+        <tspan x="673.438" y="192.735">Analysis </tspan>
+        <tspan x="673.438" y="209.417">Workspace</tspan>
       </text>
-    </g>
-    <g>
-      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 311.676 261.167 L 410.326,235.834 L 410.326,299.167 L 311.676,299.167 L 311.676,261.167z"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="361.001" y="276.167">
-        <tspan x="361.001" y="276.167">Metadata</tspan>
-        <tspan x="361.001" y="292.167">Indexers</tspan>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" cx="506.507" cy="276.303" rx="58.6122" ry="33.3649"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" x1="506.507" y1="309.668" x2="565.12" y2="309.668"/>
+      <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="506.507" y="272.133">
+        <tspan x="506.507" y="272.133">Metadata</tspan>
+        <tspan x="506.507" y="288.815">Querying</tspan>
       </text>
-    </g>
-    <g>
-      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="318" y="330" width="94" height="38" rx="0" ry="0"/>
-      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="365" y="352.9">
-        <tspan x="365" y="352.9">Ontology</tspan>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" fill-rule="evenodd" d="M 324.97 272.307 C 359.256,263.502 393.542,254.698 427.828,245.893 C 427.828,267.905 427.828,289.916 427.828,311.928 C 393.542,311.928 359.256,311.928 324.97,311.928 C 324.97,298.721 324.97,285.514 324.97,272.307z"/>
+      <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="376.399" y="287.947">
+        <tspan x="376.399" y="287.947">Metadata</tspan>
+        <tspan x="376.399" y="304.629">Indexers</tspan>
+      </text>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.08531; stroke: #000000" x="331.564" y="344.076" width="98.0095" height="39.6209" rx="0" ry="0"/>
+      <text font-size="13.3458" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="380.569" y="367.953">
+        <tspan x="380.569" y="367.953">Ontology</tspan>
       </text>
     </g>
   </g>
