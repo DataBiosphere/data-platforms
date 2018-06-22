@@ -12,10 +12,10 @@
       </text>
     </g>
     <g>
-      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 403 329.167 C 419,317.042 427,313 443,313 C 459,313 467,317.042 483,329.167 L 483,393.833 C 467,405.958 459,410 443,410 C 427,410 419,405.958 403,393.833 L 403,329.167z"/>
-      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 403 329.167 C 419,341.292 427,345.333 443,345.333 C 459,345.333 467,341.292 483,329.167"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="443" y="373.583">
-        <tspan x="443" y="373.583">Data Store</tspan>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 461 332.167 C 477,320.042 485,316 501,316 C 517,316 525,320.042 541,332.167 L 541,396.833 C 525,408.958 517,413 501,413 C 485,413 477,408.958 461,396.833 L 461,332.167z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 461 332.167 C 477,344.292 485,348.333 501,348.333 C 517,348.333 525,344.292 541,332.167"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="501" y="376.583">
+        <tspan x="501" y="376.583">Data Store</tspan>
       </text>
     </g>
     <g>
@@ -53,6 +53,12 @@
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="361.001" y="276.167">
         <tspan x="361.001" y="276.167">Metadata</tspan>
         <tspan x="361.001" y="292.167">Indexers</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="318" y="330" width="94" height="38" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="365" y="352.9">
+        <tspan x="365" y="352.9">Ontology</tspan>
       </text>
     </g>
   </g>
