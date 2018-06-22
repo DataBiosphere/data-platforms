@@ -24,3 +24,7 @@ miscommunicated, please open an issue or make a Pull Request!
 ## Editing diagrams
 
 The program used to edit the "dia" files is [dia](http://dia-installer.de/).
+
+Github caches images when they display READMEs so be sure to check the actual file if 
+it seems out of date!
+
