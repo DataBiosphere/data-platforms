@@ -5,6 +5,8 @@ in the Team Calcium NIH DCPPC Pilot (and beyond).
 
 Read the [Data Biosphere post](https://medium.com/@benedictpaten/a-data-biosphere-for-biomedical-research-d212bbfae95d).
 
+Visit the [DataBiosphere github organization](https://github.com/DataBiosphere).
+
 ## Prototype
 
 <img src="diagrams/prototype.svg" alt="The prototype components of a Commons member" />
@@ -81,7 +83,7 @@ Applications combine a variety of Commons components to carry out specific tasks
 
 Links to source code repositories for implementations are provided below:
 
-| Component              |          Broad           |      UChicago CDIS    |              UCSC             |
+| Component              |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
 |------------------------|--------------------------|-----------------------|-------------------------------|
 | Digital Object Catalog |                          |                       |                               |
 | GUID Resolver          |                          |  [indexd][6]          |  [dos-azul-lambda][13]        |
@@ -116,6 +118,9 @@ Links to source code repositories for implementations are provided below:
 [17]: https://github.com/DataBiosphere/cgp-dashboard-service
 [18]: https://github.com/DataBiosphere/cgp-boardwalk
 [19]: https://github.com/ucscXena/ucsc-xena-server
+[20]: https://www.broadinstitute.org/
+[21]: https://cdis.uchicago.edu/gen3
+[22]: https://cgl.genomics.ucsc.edu/
 
 ### UChicago CDIS
 
