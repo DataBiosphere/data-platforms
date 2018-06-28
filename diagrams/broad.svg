@@ -14,15 +14,15 @@
     </text>
     <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="309.564" y="621.076" width="210.436" height="39.6209" rx="0" ry="0"/>
     <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="414.782" y="643.886">
-      <tspan x="414.782" y="643.886">Ontology</tspan>
+      <tspan x="414.782" y="643.886">?</tspan>
     </text>
     <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="309.59" y="667.148" width="210.41" height="39.6209" rx="0" ry="0"/>
     <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="415.88" y="692.958">
-      <tspan x="415.88" y="692.958">Metadata Indexers</tspan>
+      <tspan x="415.88" y="692.958">?</tspan>
     </text>
     <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="558.714" y="646.1" width="217.036" height="39.6209" rx="0" ry="0"/>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="598.922" y="669.486">
-      <tspan x="598.922" y="669.486">Metadata Querying</tspan>
+    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="664" y="671">
+      <tspan x="664" y="671">?</tspan>
     </text>
     <g>
       <rect style="fill: #c66666; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #810000" x="823.75" y="576" width="233.002" height="148" rx="0" ry="0"/>
@@ -30,8 +30,8 @@
         <tspan x="940.251" y="653.9"></tspan>
       </text>
     </g>
-    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="878.936" y="651.544">
-      <tspan x="878.936" y="651.544">Workspaces</tspan>
+    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="904" y="651">
+      <tspan x="904" y="651">Saturn</tspan>
     </text>
     <g>
       <rect style="fill: #a1c380; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #384f1f" x="1150.89" y="577.058" width="233.002" height="148" rx="0" ry="0"/>
@@ -39,8 +39,8 @@
         <tspan x="1267.39" y="654.958"></tspan>
       </text>
     </g>
-    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1177.79" y="656.844">
-      <tspan x="1177.79" y="656.844">Analytical Engine</tspan>
+    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1220" y="655">
+      <tspan x="1220" y="655">cromwell</tspan>
     </text>
     <g>
       <rect style="fill: #e5b16f; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #d18f40" x="1478.36" y="577.144" width="233.002" height="148" rx="0" ry="0"/>
@@ -48,8 +48,8 @@
         <tspan x="1594.87" y="655.044"></tspan>
       </text>
     </g>
-    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1519.71" y="655.084">
-      <tspan x="1519.71" y="655.084">Tool Repository</tspan>
+    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1578" y="655">
+      <tspan x="1578" y="655">Agora</tspan>
     </text>
     <g>
       <rect style="fill: #e4c143; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #cbcbc9" x="790.35" y="309.858" width="233.002" height="148" rx="0" ry="0"/>
@@ -72,19 +72,19 @@
         <tspan x="1340.66" y="858.699"></tspan>
       </text>
     </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1268.03" y="859.162">
-      <tspan x="1268.03" y="859.162">Access Control</tspan>
+    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1320" y="860">
+      <tspan x="1320" y="860">bond</tspan>
     </text>
     <g>
       <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="817.242" y="859.986" width="136.05" height="41" rx="0" ry="0"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="885.267" y="884.386">
-        <tspan x="885.267" y="884.386">GUID Resolvers</tspan>
+        <tspan x="885.267" y="884.386">?</tspan>
       </text>
     </g>
     <g>
       <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="956.516" y="859.986" width="165.8" height="41" rx="0" ry="0"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1039.42" y="884.386">
-        <tspan x="1039.42" y="884.386">Namespace Service</tspan>
+        <tspan x="1039.42" y="884.386">?</tspan>
       </text>
     </g>
     <g>
@@ -99,8 +99,8 @@
         <tspan x="941.145" y="418.022"></tspan>
       </text>
     </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="912.3" y="418.91">
-      <tspan x="912.3" y="418.91">Portal</tspan>
+    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="896.3" y="418.91">
+      <tspan x="896.3" y="418.91">Firecloud</tspan>
     </text>
     <g>
       <rect style="fill: #d69898; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #463d3d" x="1300.53" y="311.272" width="233.002" height="148" rx="0" ry="0"/>
@@ -120,8 +120,8 @@
         <tspan x="1450.26" y="419.436"></tspan>
       </text>
     </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1388.54" y="421.738">
-      <tspan x="1388.54" y="421.738">Application</tspan>
+    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1444" y="420">
+      <tspan x="1444" y="420">?</tspan>
     </text>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #b3b3b3" x1="790.752" y1="650.187" x2="821.245" y2="650.149"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #b3b3b3" x1="1060.13" y1="414.452" x2="1331.28" y2="415.206"/>
