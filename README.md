@@ -1,9 +1,13 @@
 # Commons Alliance Components
 
 This repository will try to explain the components that take part 
-in the Team Calcium NIH DCPPC Pilot (and beyond).
+in the Team Calcium NIH Data Commons Pilot (and beyond).
 
-Read the [Data Biosphere post](https://medium.com/@benedictpaten/a-data-biosphere-for-biomedical-research-d212bbfae95d).
+Note, if you are viewing this on github, the images may be cached, please visit:
+
+https://david4096.github.io/data-platforms/
+
+For more background read the [Data Biosphere post](https://medium.com/@benedictpaten/a-data-biosphere-for-biomedical-research-d212bbfae95d).
 
 Visit the [DataBiosphere github organization](https://github.com/DataBiosphere).
 
