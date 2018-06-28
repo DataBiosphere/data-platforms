@@ -83,8 +83,8 @@ Links to source code repositories for implementations are provided below:
 
 | Component              |          Broad           |      UChicago CDIS    |              UCSC             |
 |------------------------|--------------------------|-----------------------|-------------------------------|
-| Digital Object Catalog |                          |                       | [dos-azul-lambda][13]         |
-| GUID Resolver          |                          |  [indexd][6]          |                               |
+| Digital Object Catalog |                          |                       |                               |
+| GUID Resolver          |                          |  [indexd][6]          |  [dos-azul-lambda][13]        |
 | Namespace Service      |                          |  [indexd][6]          |                               |
 | Access Control         |   [sam][1] [bond][2]     |  [fence][7]           |                               |
 | Analytical Engine      |   [Cromwell][3]          |                       |  [toil][14]                   |
