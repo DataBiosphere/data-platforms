@@ -88,7 +88,9 @@ Links to source code repositories for implementations are provided below:
 | Digital Object Catalog |                          |                       |                               |
 | GUID Resolver          |                          |  [indexd][6]          |  [dos-azul-lambda][13]        |
 | Namespace Service      |                          |  [indexd][6]          |                               |
-| Access Control         |   [sam][1] [bond][2]     |  [fence][7]           |                               |
+| Access Control         |                          |                       |                               |
+| Authorization          |   [sam][1] [bond][2]     |  [fence][7]           |                               |
+| Authentication         |   [sam][1] [bond][2]     |  [fence][7]           |                               |
 | Analytical Engine      |   [Cromwell][3]          |                       |  [toil][14]                   |
 | Tool Repository        |   [Agora][4]             |                       |  [Dockstore][15]              |
 | Workspaces             |   [Firecloud][5]         | [jupyterhub][8]       |                               |

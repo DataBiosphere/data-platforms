@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="72cm" height="31cm" viewBox="289 307 1425 615" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="72cm" height="37cm" viewBox="289 307 1425 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs/>
   <g id="Background">
     <g>
@@ -58,36 +58,6 @@
       </text>
     </g>
     <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="806.966" y="792.104" width="339.033" height="127.042" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="976.482" y="859.525">
-        <tspan x="976.482" y="859.525"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="865.278" y="827.618">
-      <tspan x="865.278" y="827.618">Digital Object Catalog</tspan>
-    </text>
-    <g>
-      <rect style="fill: #fffcd4; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #c8c67c" x="1224.16" y="790.452" width="233.002" height="128.693" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1340.66" y="858.699">
-        <tspan x="1340.66" y="858.699"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1320" y="860">
-      <tspan x="1320" y="860">fence</tspan>
-    </text>
-    <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="817.242" y="859.986" width="136.05" height="41" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="885.267" y="884.386">
-        <tspan x="885.267" y="884.386">indexd</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="956.516" y="859.986" width="165.8" height="41" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1039.42" y="884.386">
-        <tspan x="1039.42" y="884.386">indexd</tspan>
-      </text>
-    </g>
-    <g>
       <rect style="fill: #e4c143; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #cbcbc9" x="806.966" y="324" width="233.002" height="148" rx="0" ry="0"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="923.467" y="401.9">
         <tspan x="923.467" y="401.9"></tspan>
@@ -131,5 +101,59 @@
     <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1478.36,651.144 1431.13,651.144 1431.13,651.058 1383.89,651.058 "/>
     <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1267.39,577.058 1267.39,415.536 1333.76,415.536 "/>
     <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1594.87,577.144 1594.87,415.536 1566.76,415.536 "/>
+    <g>
+      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="742.806" y="801.652" width="339.033" height="227.896" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="912.322" y="919.5">
+        <tspan x="912.322" y="919.5"></tspan>
+      </text>
+    </g>
+    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="801.118" y="837.166">
+      <tspan x="801.118" y="837.166">Digital Object Catalog</tspan>
+    </text>
+    <g>
+      <rect style="fill: #fffcd4; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #c8c67c" x="1160" y="800" width="233.002" height="169.548" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1276.5" y="888.674">
+        <tspan x="1276.5" y="888.674"></tspan>
+      </text>
+    </g>
+    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1199.84" y="832.548">
+      <tspan x="1199.84" y="832.548">Access Control</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="815.84" y="849.081" width="200" height="41.9333" rx="0" ry="0"/>
+      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="915.84" y="874.181">
+        <tspan x="915.84" y="874.181">indexd</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="815.84" y="909.081" width="200" height="41.9333" rx="0" ry="0"/>
+      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="915.84" y="934.181">
+        <tspan x="915.84" y="934.181">indexd</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #fffcd4; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #c8c67c" x="1185.84" y="849.548" width="180" height="41" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1275.84" y="873.948">
+        <tspan x="1275.84" y="873.948"></tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #fffcd4; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #c8c67c" x="1187.84" y="909.548" width="180" height="41" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1277.84" y="933.948">
+        <tspan x="1277.84" y="933.948"></tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="815.84" y="969.081" width="200" height="41.9333" rx="0" ry="0"/>
+      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="915.84" y="994.181">
+        <tspan x="915.84" y="994.181">fence</tspan>
+      </text>
+    </g>
+    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1275.84" y="870.048">
+      <tspan x="1275.84" y="870.048">fence</tspan>
+    </text>
+    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1277.84" y="930.048">
+      <tspan x="1277.84" y="930.048">fence</tspan>
+    </text>
   </g>
 </svg>
