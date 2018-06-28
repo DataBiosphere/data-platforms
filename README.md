@@ -124,9 +124,12 @@ Links to source code repositories for implementations are provided below:
 
 ### UChicago CDIS
 
+The University of Chicago, CDIS groups presents software for easily managing the submission and 
+access control of bioinformatics and medical informatics data in cloud environments.
+
 <img src="diagrams/uc-cdis.svg" alt="An image of the UC CDIS commons services" />
 
-### UCSC Genomics Institute
+### UC Santa Cruz Computational Genomics Platform
 
 <img src="diagrams/ucsc.svg" alt="An image of the UCSC commons services" />
 
