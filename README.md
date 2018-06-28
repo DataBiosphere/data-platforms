@@ -25,12 +25,14 @@ well as minimal metadata.
 
 #### GUID Resolver
 
-Allows globally unique identifiers to be "resolved" to digital objects. 
+Allows globally unique identifiers to be "resolved" to digital objects. For more information 
+please refer to [Identifier Interoperability](https://github.com/DataBiosphere/identifier-interoperability).
 
 #### Namespace Service
 
 Identifiers can be given different namespaces or "prefixes". The namespace service allows commons 
-members to easily manage GUIDs across projects and domains.
+members to easily manage GUIDs across projects and domains. For more information 
+please refer to [Identifier Interoperability](https://github.com/DataBiosphere/identifier-interoperability).
 
 ### Access Control
 
@@ -41,7 +43,7 @@ control system of choice.
 ### Analytical Engine
 
 Software which can orchestrate and execute computational tasks in heterogeneous computing 
-environments
+environments.
 
 ### Tool Repository
 
