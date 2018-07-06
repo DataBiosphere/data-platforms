@@ -18,8 +18,8 @@
       <tspan x="402.33" y="687.17">azul-indexer</tspan>
     </text>
     <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="525.618" y="642.1" width="210.612" height="39.6209" rx="0" ry="0"/>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="615" y="666">
-      <tspan x="615" y="666">azul</tspan>
+    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="570" y="667">
+      <tspan x="570" y="667">azul-webservice</tspan>
     </text>
     <g>
       <rect style="fill: #c66666; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #810000" x="823.75" y="576" width="233.002" height="148" rx="0" ry="0"/>
@@ -149,7 +149,7 @@
     <g>
       <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="835.84" y="969.082" width="200" height="41.9333" rx="0" ry="0"/>
       <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="935.84" y="994.182">
-        <tspan x="935.84" y="994.182">Redwood</tspan>
+        <tspan x="935.84" y="994.182">cgp-data-store</tspan>
       </text>
     </g>
     <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1295.84" y="870.048">
