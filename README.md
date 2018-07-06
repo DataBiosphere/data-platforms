@@ -91,24 +91,24 @@ Applications combine a variety of Commons components to carry out specific tasks
 
 Links to source code repositories for implementations are provided below:
 
-| Component              |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
-|------------------------|--------------------------|-----------------------|-------------------------------|
-| Digital Object Catalog |                          |                       |                               |
-| GUID Resolver          |                          |  [indexd][6]          |  [dos-azul-lambda][13]        |
-| Namespace Service      |                          |  [indexd][6]          |                               |
-| Data Access            |                          |                       |  [cgp-data-store][23]         |
-| Access Control         |                          |                       |                               |
-| Authorization          |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Authentication         |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Analytical Engine      |   [Cromwell][3]          |                       |  [toil][14]                   |
-| Tool Repository        |   [Agora][4]             |                       |  [Dockstore][15]              |
-| Workspaces             |   [Firecloud][5]         | [jupyterhub][8]       |                               |
-| Indexing and Search    |                          |                       |                               |
-| Ontology               |                          | [datadictionary][9]   |                               |
-| Metadata Indexer       |                          | [sheepdog][10]        | [azul-indexer][16]            |
-| Metadata Querying      |                          | [peregrine][11]       | [azul-webservice][17]         |
-| Portal                 |                          | [windmill][12]        | [boardwalk][18]               |
-| Application            |                          |                       | [xena][19]                    |
+| Component                  |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
+|----------------------------|--------------------------|-----------------------|-------------------------------|
+|  *Digital Object Catalog*  |                          |                       |                               |
+| GUID Resolver              |                          |  [indexd][6]          |  [dos-azul-lambda][13]        |
+| Namespace Service          |                          |  [indexd][6]          |                               |
+| Data Access                |                          |                       |  [cgp-data-store][23]         |
+| *Access Control*           |                          |                       |                               |
+| Authorization              |   [sam][1] [bond][2]     |  [fence][7]           |                               |
+| Authentication             |   [sam][1] [bond][2]     |  [fence][7]           |                               |
+| Analytical Engine          |   [Cromwell][3]          |                       |  [toil][14]                   |
+| Tool Repository            |   [Agora][4]             |                       |  [Dockstore][15]              |
+| Workspaces                 |   [Firecloud][5]         | [jupyterhub][8]       |                               |
+| *Indexing and Search*      |                          |                       |                               |
+| Ontology                   |                          | [datadictionary][9]   |                               |
+| Metadata Indexer           |                          | [sheepdog][10]        | [azul-indexer][16]            |
+| Metadata Querying          |                          | [peregrine][11]       | [azul-webservice][17]         |
+| Portal                     |                          | [windmill][12]        | [boardwalk][18]               |
+| Application                |                          |                       | [xena][19]                    |
 
 [1]: https://github.com/broadinstitute/sam
 [2]: https://github.com/DataBiosphere/bond
