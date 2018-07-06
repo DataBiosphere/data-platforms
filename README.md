@@ -91,23 +91,30 @@ Applications combine a variety of Commons components to carry out specific tasks
 
 Links to source code repositories for implementations are provided below:
 
-| Component              |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
-|------------------------|--------------------------|-----------------------|-------------------------------|
-| Digital Object Catalog |                          |                       |                               |
-| GUID Resolver          |                          |  [indexd][6]          |  [dos-azul-lambda][13]        |
-| Namespace Service      |                          |  [indexd][6]          |                               |
-| Access Control         |                          |                       |                               |
-| Authorization          |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Authentication         |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Analytical Engine      |   [Cromwell][3]          |                       |  [toil][14]                   |
-| Tool Repository        |   [Agora][4]             |                       |  [Dockstore][15]              |
-| Workspaces             |   [Firecloud][5]         | [jupyterhub][8]       |                               |
-| Indexing and Search    |                          |                       |                               |
-| Ontology               |                          | [datadictionary][9]   |                               |
-| Metadata Indexer       |                          | [sheepdog][10]        | [cgp-dss-azul-indexer][16]    |
-| Metadata Querying      |                          | [peregrine][11]       | [cgp-dashboard-service][17]   |
-| Portal                 |                          | [windmill][12]        | [boardwalk][18]               |
-| Application            |                          |                       | [xena][19]                    |
+| Component                  |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
+|----------------------------|--------------------------|-----------------------|-------------------------------|
+|  *Digital Object Catalog*  |                          |                       |                               |
+| GUID Resolver              |                          |  [indexd][6][*][25]   |  [dos-azul-lambda][13][*][25] |
+| Namespace Service          |                          |  [indexd][6][*][25]   |                               |
+| Data Access                |                          |  [fence][7]           |  [cgp-data-store][23]         |
+| *Access Control*           |                          |                       |                               |
+| Authorization              |   [sam][1] [bond][2]     |  [fence][7]           |                               |
+| Authentication             |   [sam][1] [bond][2]     |  [fence][7]           |                               |
+| Analytical Engine          |   [Cromwell][3]          |                       |  [toil][14]                   |
+| Tool Repository            |   [Agora][4]             |                       |  [Dockstore][15][*][24]       |
+| Workspaces                 |   [Firecloud][5]         | [jupyterhub][8]       |                               |
+| *Indexing and Search*      |                          |                       |                               |
+| Ontology                   |                          | [datadictionary][9]   |                               |
+| Metadata Indexer           |                          | [sheepdog][10]        | [azul-indexer][16]            |
+| Metadata Querying          |                          | [peregrine][11]       | [azul-webservice][17]         |
+| Portal                     |                          | [windmill][12]        | [boardwalk][18]               |
+| Application                |                          |                       | [xena][19]                    |
+
+Applications marked with a `*` implement a standard interface being developed with the GA4GH. 
+Clients can interact with these applications using an open protocol
+
+* indexd and dos-azul-lambda implement the [Data Object Service][25].
+* Dockstore implements the [Tool Registry Service][24].
 
 [1]: https://github.com/broadinstitute/sam
 [2]: https://github.com/DataBiosphere/bond
@@ -124,13 +131,17 @@ Links to source code repositories for implementations are provided below:
 [13]: https://github.com/DataBiosphere/dos-azul-lambda
 [14]: https://github.com/BD2KGenomics/toil
 [15]: https://github.com/ga4gh/dockstore
-[16]: https://github.com/DataBiosphere/cgp-dss-azul-indexer
-[17]: https://github.com/DataBiosphere/cgp-dashboard-service
+[16]: https://github.com/DataBiosphere/azul
+[17]: https://github.com/DataBiosphere/azul
 [18]: https://github.com/DataBiosphere/cgp-boardwalk
 [19]: https://github.com/ucscXena/ucsc-xena-server
 [20]: https://www.broadinstitute.org/
 [21]: https://cdis.uchicago.edu/gen3
 [22]: https://cgl.genomics.ucsc.edu/
+[23]: https://github.com/DataBiosphere/cgp-data-store
+[24]: https://github.com/ga4gh/tool-registry-service-schemas
+[25]: https://github.com/ga4gh/data-object-service-schemas
+
 
 ### UChicago CDIS
 
