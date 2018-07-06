@@ -94,14 +94,14 @@ Links to source code repositories for implementations are provided below:
 | Component                  |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
 |----------------------------|--------------------------|-----------------------|-------------------------------|
 |  *Digital Object Catalog*  |                          |                       |                               |
-| GUID Resolver              |                          |  [indexd][6]*         |  [dos-azul-lambda][13]*       |
-| Namespace Service          |                          |  [indexd][6]*         |                               |
+| GUID Resolver              |                          |  [indexd][6][*][25]   |  [dos-azul-lambda][13][*][25] |
+| Namespace Service          |                          |  [indexd][6][*][25]   |                               |
 | Data Access                |                          |  [fence][7]           |  [cgp-data-store][23]         |
 | *Access Control*           |                          |                       |                               |
 | Authorization              |   [sam][1] [bond][2]     |  [fence][7]           |                               |
 | Authentication             |   [sam][1] [bond][2]     |  [fence][7]           |                               |
 | Analytical Engine          |   [Cromwell][3]          |                       |  [toil][14]                   |
-| Tool Repository            |   [Agora][4]             |                       |  [Dockstore][15]*             |
+| Tool Repository            |   [Agora][4]             |                       |  [Dockstore][15][*][24]       |
 | Workspaces                 |   [Firecloud][5]         | [jupyterhub][8]       |                               |
 | *Indexing and Search*      |                          |                       |                               |
 | Ontology                   |                          | [datadictionary][9]   |                               |
@@ -113,8 +113,8 @@ Links to source code repositories for implementations are provided below:
 Applications marked with a `*` implement a standard interface being developed with the GA4GH. 
 Clients can interact with these applications using an open protocol
 
-* indexd and dos-azul-lambda implement the Data Object Service.
-* Dockstore implements the Tool Registry Service.
+* indexd and dos-azul-lambda implement the [Data Object Service][25].
+* Dockstore implements the [Tool Registry Service][24].
 
 [1]: https://github.com/broadinstitute/sam
 [2]: https://github.com/DataBiosphere/bond
@@ -139,6 +139,8 @@ Clients can interact with these applications using an open protocol
 [21]: https://cdis.uchicago.edu/gen3
 [22]: https://cgl.genomics.ucsc.edu/
 [23]: https://github.com/DataBiosphere/cgp-data-store
+[24]: https://github.com/ga4gh/tool-registry-service-schemas
+[25]: https://github.com/ga4gh/data-object-service-schemas
 
 
 ### UChicago CDIS
