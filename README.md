@@ -3,6 +3,8 @@
 This repository will try to explain the components that take part 
 in the Team Calcium NIH Data Commons Pilot (and beyond).
 
+This is a living document.
+
 Note, if you are viewing this on github, the images may be cached, please visit:
 
 https://david4096.github.io/data-platforms/
@@ -142,6 +144,8 @@ access control of bioinformatics and medical informatics data in cloud environme
 <img src="diagrams/ucsc.svg" alt="An image of the UCSC commons services" />
 
 ### Broad Institute
+
+#### This section is in progress
 
 <img src="diagrams/broad.svg" alt="An image of the Broad commons services" />
 
