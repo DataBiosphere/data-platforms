@@ -7,7 +7,7 @@ This is a living document.
 
 Note, if you are viewing this on github, the images may be cached, please visit:
 
-https://david4096.github.io/data-platforms/
+https://databiosphere.github.io/data-platforms/
 
 For more background read the [Data Biosphere post](https://medium.com/@benedictpaten/a-data-biosphere-for-biomedical-research-d212bbfae95d).
 
