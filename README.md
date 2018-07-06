@@ -36,6 +36,11 @@ Identifiers can be given different namespaces or "prefixes". The namespace servi
 members to easily manage GUIDs across projects and domains. For more information 
 please refer to [Identifier Interoperability](https://github.com/DataBiosphere/identifier-interoperability).
 
+#### Data Access
+
+Once data have been discovered they must be localized, which requires interacting with object stores 
+and performing authentication, authorization, downloading, and transfer as necessary.
+
 ### Access Control
 
 To guarantee authority and authenticity of requests, some access control services are provided. 
