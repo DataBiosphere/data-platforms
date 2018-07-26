@@ -97,14 +97,14 @@ Links to source code repositories for implementations are provided below:
 | Access Control         |                          |                       |                               |
 | Authorization          |   [sam][1] [bond][2]     |  [fence][7]           |                               |
 | Authentication         |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Analytical Engine      |   [Cromwell][3]          |                       |  [toil][14]                   |
+| Analytical Engine      |   [Cromwell][3] [Leo][25]|                       |  [toil][14]                   |
 | Tool Repository        |   [Agora][4]             |                       |  [Dockstore][15]              |
-| Workspaces             |   [Firecloud][5]         | [jupyterhub][8]       |                               |
-| Indexing and Search    |                          |                       |                               |
+| Workspaces             |   [Rawls][23]            | [jupyterhub][8]       |                               |
+| Indexing and Search    |   [Orchestration][24]    |                       |                               |
 | Ontology               |                          | [datadictionary][9]   |                               |
-| Metadata Indexer       |                          | [sheepdog][10]        | [cgp-dss-azul-indexer][16]    |
-| Metadata Querying      |                          | [peregrine][11]       | [cgp-dashboard-service][17]   |
-| Portal                 |                          | [windmill][12]        | [boardwalk][18]               |
+| Metadata Indexer       |   [Orchestration][24]    | [sheepdog][10]        | [cgp-dss-azul-indexer][16]    |
+| Metadata Querying      |   [Orchestration][24]    | [peregrine][11]       | [cgp-dashboard-service][17]   |
+| Portal                 |   [Firecloud][5]         | [windmill][12]        | [boardwalk][18]               |
 | Application            |                          |                       | [xena][19]                    |
 
 [1]: https://github.com/broadinstitute/sam
@@ -129,6 +129,9 @@ Links to source code repositories for implementations are provided below:
 [20]: https://www.broadinstitute.org/
 [21]: https://cdis.uchicago.edu/gen3
 [22]: https://cgl.genomics.ucsc.edu/
+[23]: https://github.com/broadinstitute/rawls
+[24]: https://github.com/broadinstitute/firecloud-orchestration
+[25]: https://github.com/DataBiosphere/leonardo
 
 ### UChicago CDIS
 
