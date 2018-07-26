@@ -14,12 +14,12 @@
     </text>
     <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="321.866" y="616.132" width="162.635" height="39.6209" rx="0" ry="0"/>
     <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="319.038" y="664.36" width="166.582" height="39.6209" rx="0" ry="0"/>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="402.33" y="684.17">
-      <tspan x="402.33" y="684.17">dss-azul-indexer</tspan>
+    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="402.33" y="687.17">
+      <tspan x="402.33" y="687.17">azul-indexer</tspan>
     </text>
     <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="525.618" y="642.1" width="210.612" height="39.6209" rx="0" ry="0"/>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="545.312" y="666.072">
-      <tspan x="545.312" y="666.072">cgp-dashboard-service</tspan>
+    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="570" y="667">
+      <tspan x="570" y="667">azul-webservice</tspan>
     </text>
     <g>
       <rect style="fill: #c66666; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #810000" x="823.75" y="576" width="233.002" height="148" rx="0" ry="0"/>
@@ -101,8 +101,8 @@
     <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="917.25" y="655.084">
       <tspan x="917.25" y="655.084">n/a</tspan>
     </text>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="403.184" y="635.942">
-      <tspan x="403.184" y="635.942">n/a</tspan>
+    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="403.184" y="638.942">
+      <tspan x="403.184" y="638.942">n/a</tspan>
     </text>
     <g>
       <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="762.806" y="801.652" width="339.033" height="227.896" rx="0" ry="0"/>
@@ -123,15 +123,15 @@
       <tspan x="1219.84" y="832.548">Access Control</tspan>
     </text>
     <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="835.84" y="849.081" width="200" height="41.9333" rx="0" ry="0"/>
-      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="935.84" y="874.181">
-        <tspan x="935.84" y="874.181">dos-azul-lambda</tspan>
+      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="835.84" y="849.082" width="200" height="41.9333" rx="0" ry="0"/>
+      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="935.84" y="874.182">
+        <tspan x="935.84" y="874.182">dos-azul-lambda</tspan>
       </text>
     </g>
     <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="835.84" y="909.081" width="200" height="41.9333" rx="0" ry="0"/>
-      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="935.84" y="934.181">
-        <tspan x="935.84" y="934.181"></tspan>
+      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="835.84" y="909.082" width="200" height="41.9333" rx="0" ry="0"/>
+      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="935.84" y="934.182">
+        <tspan x="935.84" y="934.182"></tspan>
       </text>
     </g>
     <g>
@@ -147,9 +147,9 @@
       </text>
     </g>
     <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="835.84" y="969.081" width="200" height="41.9333" rx="0" ry="0"/>
-      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="935.84" y="994.181">
-        <tspan x="935.84" y="994.181"></tspan>
+      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="835.84" y="969.082" width="200" height="41.9333" rx="0" ry="0"/>
+      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="935.84" y="994.182">
+        <tspan x="935.84" y="994.182">cgp-data-store</tspan>
       </text>
     </g>
     <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1295.84" y="870.048">

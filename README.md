@@ -3,9 +3,11 @@
 This repository will try to explain the components that take part 
 in the Team Calcium NIH Data Commons Pilot (and beyond).
 
+This is a living document.
+
 Note, if you are viewing this on github, the images may be cached, please visit:
 
-https://david4096.github.io/data-platforms/
+https://databiosphere.github.io/data-platforms/
 
 For more background read the [Data Biosphere post](https://medium.com/@benedictpaten/a-data-biosphere-for-biomedical-research-d212bbfae95d).
 
@@ -33,6 +35,11 @@ please refer to [Identifier Interoperability](https://github.com/DataBiosphere/i
 Identifiers can be given different namespaces or "prefixes". The namespace service allows commons 
 members to easily manage GUIDs across projects and domains. For more information 
 please refer to [Identifier Interoperability](https://github.com/DataBiosphere/identifier-interoperability).
+
+#### Data Access
+
+Once data have been discovered they must be localized, which requires interacting with object stores 
+and performing authentication, authorization, downloading, and transfer as necessary.
 
 ### Access Control
 
@@ -89,23 +96,31 @@ Applications combine a variety of Commons components to carry out specific tasks
 
 Links to source code repositories for implementations are provided below:
 
-| Component              |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
-|------------------------|--------------------------|-----------------------|-------------------------------|
-| Digital Object Catalog |                          |                       |                               |
-| GUID Resolver          |                          |  [indexd][6]          |  [dos-azul-lambda][13]        |
-| Namespace Service      |                          |  [indexd][6]          |                               |
-| Access Control         |                          |                       |                               |
-| Authorization          |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Authentication         |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Analytical Engine      |   [Cromwell][3] [Leo][25]|                       |  [toil][14]                   |
-| Tool Repository        |   [Agora][4]             |                       |  [Dockstore][15]              |
-| Workspaces             |   [Rawls][23]            | [jupyterhub][8]       |                               |
-| Indexing and Search    |   [Orchestration][24]    |                       |                               |
-| Ontology               |                          | [datadictionary][9]   |                               |
-| Metadata Indexer       |   [Orchestration][24]    | [sheepdog][10]        | [cgp-dss-azul-indexer][16]    |
-| Metadata Querying      |   [Orchestration][24]    | [peregrine][11]       | [cgp-dashboard-service][17]   |
-| Portal                 |   [Firecloud][5]         | [windmill][12]        | [boardwalk][18]               |
-| Application            |                          |                       | [xena][19]                    |
+=======
+| Component                  |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
+|----------------------------|--------------------------|-----------------------|-------------------------------|
+|  *Digital Object Catalog*  |                          |                       |                               |
+| GUID Resolver              |                          |  [indexd][6][*][25]   |  [dos-azul-lambda][13][*][25] |
+| Namespace Service          |                          |  [indexd][6][*][25]   |                               |
+| Data Access                |                          |  [fence][7]           |  [cgp-data-store][23]         |
+| *Access Control*           |                          |                       |                               |
+| Authorization              |   [sam][1] [bond][2]     |  [fence][7]           |                               |
+| Authentication             |   [sam][1] [bond][2]     |  [fence][7]           |                               |
+| Analytical Engine          |   [Cromwell][3] [Leo][28]|                       |  [toil][14]                   |
+| Tool Repository            |   [Agora][4]             |                       |  [Dockstore][15][*][24]       |
+| Workspaces                 |   [Rawls][26]            | [jupyterhub][8]       |                               |
+| *Indexing and Search*      |   [Orchestration][27]    |                       |                               |
+| Ontology                   |                          | [datadictionary][9]   |                               |
+| Metadata Indexer           |   [Orchestration][27]    | [sheepdog][10]        | [azul-indexer][16]            |
+| Metadata Querying          |   [Orchestration][27]    | [peregrine][11]       | [azul-webservice][17]         |
+| Portal                     |   [Firecloud][5]         | [windmill][12]        | [boardwalk][18]               |
+| Application                |                          |                       | [xena][19]                    |
+
+Applications marked with a `*` implement a standard interface being developed with the GA4GH. 
+Clients can interact with these applications using an open protocol
+
+* indexd and dos-azul-lambda implement the [Data Object Service][25].
+* Dockstore implements the [Tool Registry Service][24].
 
 [1]: https://github.com/broadinstitute/sam
 [2]: https://github.com/DataBiosphere/bond
@@ -122,16 +137,19 @@ Links to source code repositories for implementations are provided below:
 [13]: https://github.com/DataBiosphere/dos-azul-lambda
 [14]: https://github.com/BD2KGenomics/toil
 [15]: https://github.com/ga4gh/dockstore
-[16]: https://github.com/DataBiosphere/cgp-dss-azul-indexer
-[17]: https://github.com/DataBiosphere/cgp-dashboard-service
+[16]: https://github.com/DataBiosphere/azul
+[17]: https://github.com/DataBiosphere/azul
 [18]: https://github.com/DataBiosphere/cgp-boardwalk
 [19]: https://github.com/ucscXena/ucsc-xena-server
 [20]: https://www.broadinstitute.org/
 [21]: https://cdis.uchicago.edu/gen3
 [22]: https://cgl.genomics.ucsc.edu/
-[23]: https://github.com/broadinstitute/rawls
-[24]: https://github.com/broadinstitute/firecloud-orchestration
-[25]: https://github.com/DataBiosphere/leonardo
+[23]: https://github.com/DataBiosphere/cgp-data-store
+[24]: https://github.com/ga4gh/tool-registry-service-schemas
+[25]: https://github.com/ga4gh/data-object-service-schemas
+[26]: https://github.com/broadinstitute/rawls
+[27]: https://github.com/broadinstitute/firecloud-orchestration
+[28]: https://github.com/DataBiosphere/leonardo
 
 ### UChicago CDIS
 
@@ -145,6 +163,8 @@ access control of bioinformatics and medical informatics data in cloud environme
 <img src="diagrams/ucsc.svg" alt="An image of the UCSC commons services" />
 
 ### Broad Institute
+
+#### This section is in progress
 
 <img src="diagrams/broad.svg" alt="An image of the Broad commons services" />
 
