@@ -105,14 +105,14 @@ Links to source code repositories for implementations are provided below:
 | *Access Control*           |                          |                       |                               |
 | Authorization              |   [sam][1] [bond][2]     |  [fence][7]           |                               |
 | Authentication             |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Analytical Engine          |   [Cromwell][3]          |                       |  [toil][14]                   |
+| Analytical Engine          |   [Cromwell][3] [Leo][28]|                       |  [toil][14]                   |
 | Tool Repository            |   [Agora][4]             |                       |  [Dockstore][15][*][24]       |
-| Workspaces                 |   [Firecloud][5]         | [jupyterhub][8]       |                               |
-| *Indexing and Search*      |                          |                       |                               |
+| Workspaces                 |   [Rawls][26]            | [jupyterhub][8]       |                               |
+| *Indexing and Search*      |   [Orchestration][27]    |                       |                               |
 | Ontology                   |                          | [datadictionary][9]   |                               |
-| Metadata Indexer           |                          | [sheepdog][10]        | [azul-indexer][16]            |
-| Metadata Querying          |                          | [peregrine][11]       | [azul-webservice][17]         |
-| Portal                     |                          | [windmill][12]        | [boardwalk][18]               |
+| Metadata Indexer           |   [Orchestration][27]    | [sheepdog][10]        | [azul-indexer][16]            |
+| Metadata Querying          |   [Orchestration][27]    | [peregrine][11]       | [azul-webservice][17]         |
+| Portal                     |   [Firecloud][5]         | [windmill][12]        | [boardwalk][18]               |
 | Application                |                          |                       | [xena][19]                    |
 
 Applications marked with a `*` implement a standard interface being developed with the GA4GH. 
@@ -146,7 +146,9 @@ Clients can interact with these applications using an open protocol
 [23]: https://github.com/DataBiosphere/cgp-data-store
 [24]: https://github.com/ga4gh/tool-registry-service-schemas
 [25]: https://github.com/ga4gh/data-object-service-schemas
-
+[26]: https://github.com/broadinstitute/rawls
+[27]: https://github.com/broadinstitute/firecloud-orchestration
+[28]: https://github.com/DataBiosphere/leonardo
 
 ### UChicago CDIS
 

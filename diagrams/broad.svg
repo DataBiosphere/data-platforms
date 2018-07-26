@@ -1,159 +1,244 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="72cm" height="36cm" viewBox="289 307 1425 704" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs/>
-  <g id="Background">
-    <g>
-      <rect style="fill: #924e77; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #c6a3b9" x="290.754" y="575" width="498.996" height="151" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="540.252" y="654.4">
-        <tspan x="540.252" y="654.4"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="444.686" y="611.414">
-      <tspan x="444.686" y="611.414">Indexing and Search</tspan>
+<svg width="73cm" height="40cm" viewBox="289 224 1451 789" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #924e77" x="290.754" y="575" width="498.996" height="151"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #c6a3b9" x="290.754" y="575" width="498.996" height="151"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="540.252" y="654.4">
+      <tspan x="540.252" y="654.4"></tspan>
     </text>
-    <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="309.564" y="621.076" width="210.436" height="39.6209" rx="0" ry="0"/>
-    <text font-size="13.346" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="414.782" y="643.886">
-      <tspan x="414.782" y="643.886"></tspan>
+  </g>
+  <text font-size="18.0622" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="444.686" y="611.414">
+    <tspan x="444.686" y="611.414">Indexing and Search</tspan>
+    <tspan x="444.686" y="633.992"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #c8a5bb" x="309.564" y="621.076" width="210.436" height="39.6209"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #924e77" x="309.564" y="621.076" width="210.436" height="39.6209"/>
+  </g>
+  <text font-size="13.346" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="414.782" y="643.886">
+    <tspan x="414.782" y="643.886"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #c8a5bb" x="309.59" y="667.148" width="210.41" height="39.6209"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #924e77" x="309.59" y="667.148" width="210.41" height="39.6209"/>
+  </g>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="415.88" y="692.958">
+    <tspan x="415.88" y="692.958"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #c8a5bb" x="558.714" y="646.1" width="217.036" height="39.6209"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #924e77" x="558.714" y="646.1" width="217.036" height="39.6209"/>
+  </g>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="664" y="671">
+    <tspan x="664" y="671"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #c66666" x="904.75" y="585" width="233.002" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #810000" x="904.75" y="585" width="233.002" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1021.25" y="662.9">
+      <tspan x="1021.25" y="662.9"></tspan>
     </text>
-    <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="309.59" y="667.148" width="210.41" height="39.6209" rx="0" ry="0"/>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="415.88" y="692.958">
-      <tspan x="415.88" y="692.958"></tspan>
+  </g>
+  <text font-size="18.0622" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="986" y="660">
+    <tspan x="986" y="660">Rawls</tspan>
+  </text>
+  <g>
+    <rect style="fill: #a1c380" x="1184.89" y="585.058" width="233.002" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #384f1f" x="1184.89" y="585.058" width="233.002" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1301.39" y="662.958">
+      <tspan x="1301.39" y="662.958"></tspan>
     </text>
-    <rect style="fill: #c8a5bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #924e77" x="558.714" y="646.1" width="217.036" height="39.6209" rx="0" ry="0"/>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="664" y="671">
-      <tspan x="664" y="671"></tspan>
+  </g>
+  <text font-size="18.0622" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1257" y="661">
+    <tspan x="1257" y="661">cromwell</tspan>
+  </text>
+  <g>
+    <rect style="fill: #e5b16f" x="1504.36" y="585.144" width="233.002" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #d18f40" x="1504.36" y="585.144" width="233.002" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1620.87" y="663.044">
+      <tspan x="1620.87" y="663.044"></tspan>
+    </text>
+  </g>
+  <text font-size="18.0622" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1591" y="661">
+    <tspan x="1591" y="661">Agora</tspan>
+  </text>
+  <g>
+    <rect style="fill: #e4c143" x="905.644" y="360.122" width="233.002" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #cbcbc9" x="905.644" y="360.122" width="233.002" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1022.15" y="438.022">
+      <tspan x="1022.15" y="438.022"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #d69898" x="1305.53" y="332.272" width="233.002" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #463d3d" x="1305.53" y="332.272" width="233.002" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1422.03" y="410.172">
+      <tspan x="1422.03" y="410.172"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #d69898" x="1319.67" y="345" width="233.002" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #463d3d" x="1319.67" y="345" width="233.002" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1436.17" y="422.9">
+      <tspan x="1436.17" y="422.9"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #d69898" x="1334.76" y="362.536" width="233.002" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #463d3d" x="1334.76" y="362.536" width="233.002" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1451.26" y="440.436">
+      <tspan x="1451.26" y="440.436"></tspan>
+    </text>
+  </g>
+  <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1444" y="420">
+    <tspan x="1444" y="420"></tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #b3b3b3" x1="790.748" y1="654.927" x2="902.264" y2="656.897"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #b3b3b3" x1="1140.32" y1="434.787" x2="1333.09" y2="435.871"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="540.252,575 540.252,434.122 905.644,434.122 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1137.75,659 1161.32,659 1161.32,659.058 1184.89,659.058 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1504.36,659.144 1461.13,659.144 1461.13,659.058 1417.89,659.058 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1301.39,585.058 1301.39,436.536 1334.76,436.536 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1620.87,585.144 1620.87,438 1567.76,438 1567.76,436.536 "/>
+  <g>
+    <rect style="fill: #d4e1f2" x="373" y="783" width="339.033" height="227.896"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #7e9de8" x="373" y="783" width="339.033" height="227.896"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="542.516" y="900.848">
+      <tspan x="542.516" y="900.848"></tspan>
+    </text>
+  </g>
+  <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="524.312" y="815.514">
+    <tspan x="524.312" y="815.514">N/A</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d4e1f2" x="446.034" y="830.43" width="200" height="41.9333"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #7e9de8" x="446.034" y="830.43" width="200" height="41.9333"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="546.034" y="855.53">
+      <tspan x="546.034" y="855.53"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #d4e1f2" x="446.034" y="890.43" width="200" height="41.9333"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #7e9de8" x="446.034" y="890.43" width="200" height="41.9333"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="546.034" y="915.53">
+      <tspan x="546.034" y="915.53"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #d4e1f2" x="446.034" y="950.43" width="200" height="41.9333"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #7e9de8" x="446.034" y="950.43" width="200" height="41.9333"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="546.034" y="975.53">
+      <tspan x="546.034" y="975.53"></tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="882.08" y="412.25">
+    <tspan x="882.08" y="412.25"></tspan>
+  </text>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1021.25,582.491 1021.25,545.306 1022.15,545.306 1022.15,508.122 "/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1026.08" y="660.25">
+    <tspan x="1026.08" y="660.25"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1003.08" y="651.25">
+    <tspan x="1003.08" y="651.25"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="565.08" y="609.25">
+    <tspan x="565.08" y="609.25"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #e4c143" x="608.35" y="360.858" width="233.002" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #cbcbc9" x="608.35" y="360.858" width="233.002" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="724.851" y="438.758">
+      <tspan x="724.851" y="438.758"></tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="542.516" y="896.948">
+    <tspan x="542.516" y="896.948"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1022.15" y="434.122">
+    <tspan x="1022.15" y="434.122"></tspan>
+  </text>
+  <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="989.88" y="436.5">
+    <tspan x="989.88" y="436.5">Saturn</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1022.15" y="434.122">
+    <tspan x="1022.15" y="434.122"></tspan>
+  </text>
+  <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="679.3" y="437.91">
+    <tspan x="679.3" y="437.91">Firecloud</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="468.08" y="239.25">
+    <tspan x="468.08" y="239.25"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="504.08" y="237.25">
+    <tspan x="504.08" y="237.25"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="474.08" y="246.25">
+    <tspan x="474.08" y="246.25"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="627.08" y="814.5">
+    <tspan x="627.08" y="814.5"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="479.08" y="814.5">
+    <tspan x="479.08" y="814.5"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="510.754" y="606">
+    <tspan x="510.754" y="606"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="410.434" y="690.646">
+    <tspan x="410.434" y="690.646">Orchestration</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="396.754" y="687.25">
+    <tspan x="396.754" y="687.25"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="667.834" y="669.896">
+    <tspan x="667.834" y="669.896">Orchestration</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="413.434" y="645.646">
+    <tspan x="413.434" y="645.646">n/a</tspan>
+  </text>
+  <g>
+    <g>
+      <rect style="fill: #a1c380" x="1232.17" y="686.5" width="233.002" height="148"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #384f1f" x="1232.17" y="686.5" width="233.002" height="148"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1348.67" y="764.4">
+        <tspan x="1348.67" y="764.4"></tspan>
+      </text>
+    </g>
+    <text font-size="18.0622" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1289.4" y="760.25">
+      <tspan x="1289.4" y="760.25">Leonardo</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #fffcd4" x="897.194" y="799.348" width="233.002" height="169.548"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="897.194" y="799.348" width="233.002" height="169.548"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1013.69" y="888.022">
+        <tspan x="1013.69" y="888.022"></tspan>
+      </text>
+    </g>
+    <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="937.034" y="831.896">
+      <tspan x="937.034" y="831.896">Access Control</tspan>
     </text>
     <g>
-      <rect style="fill: #c66666; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #810000" x="823.75" y="576" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="940.251" y="653.9">
-        <tspan x="940.251" y="653.9"></tspan>
+      <rect style="fill: #fffcd4" x="923.034" y="848.896" width="180" height="41"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="923.034" y="848.896" width="180" height="41"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1013.03" y="873.296">
+        <tspan x="1013.03" y="873.296"></tspan>
       </text>
     </g>
-    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="904" y="651">
-      <tspan x="904" y="651">Saturn</tspan>
+    <g>
+      <rect style="fill: #fffcd4" x="925.034" y="908.896" width="180" height="41"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="925.034" y="908.896" width="180" height="41"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1015.03" y="933.296">
+        <tspan x="1015.03" y="933.296"></tspan>
+      </text>
+    </g>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1013.03" y="869.396">
+      <tspan x="1013.03" y="869.396">sam</tspan>
     </text>
-    <g>
-      <rect style="fill: #a1c380; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #384f1f" x="1150.89" y="577.058" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1267.39" y="654.958">
-        <tspan x="1267.39" y="654.958"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1220" y="655">
-      <tspan x="1220" y="655">cromwell</tspan>
-    </text>
-    <g>
-      <rect style="fill: #e5b16f; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #d18f40" x="1478.36" y="577.144" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1594.87" y="655.044">
-        <tspan x="1594.87" y="655.044"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1565" y="655">
-      <tspan x="1565" y="655">Agora</tspan>
-    </text>
-    <g>
-      <rect style="fill: #e4c143; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #cbcbc9" x="790.35" y="309.858" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="906.851" y="387.758">
-        <tspan x="906.851" y="387.758"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #e4c143; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #cbcbc9" x="806.966" y="324" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="923.467" y="401.9">
-        <tspan x="923.467" y="401.9"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #e4c143; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #cbcbc9" x="824.644" y="340.122" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="941.145" y="418.022">
-        <tspan x="941.145" y="418.022"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="896.3" y="418.91">
-      <tspan x="896.3" y="418.91">Firecloud</tspan>
-    </text>
-    <g>
-      <rect style="fill: #d69898; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #463d3d" x="1300.53" y="311.272" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1417.03" y="389.172">
-        <tspan x="1417.03" y="389.172"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #d69898; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #463d3d" x="1314.67" y="324" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1431.17" y="401.9">
-        <tspan x="1431.17" y="401.9"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #d69898; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #463d3d" x="1333.76" y="341.536" width="233.002" height="148" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1450.26" y="419.436">
-        <tspan x="1450.26" y="419.436"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1444" y="420">
-      <tspan x="1444" y="420"></tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #b3b3b3" x1="790.752" y1="650.187" x2="821.245" y2="650.149"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #b3b3b3" x1="1060.13" y1="414.452" x2="1331.28" y2="415.206"/>
-    <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="540.252,575 540.252,414.122 824.644,414.122 "/>
-    <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="940.251,573.491 940.251,530.806 941.145,530.806 941.145,488.122 "/>
-    <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1056.75,650 1103.82,650 1103.82,651.058 1150.89,651.058 "/>
-    <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1478.36,651.144 1431.13,651.144 1431.13,651.058 1383.89,651.058 "/>
-    <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1267.39,577.058 1267.39,415.536 1333.76,415.536 "/>
-    <polyline style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1594.87,577.144 1594.87,415.536 1566.76,415.536 "/>
-    <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="720" y="780" width="339.033" height="227.896" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="889.516" y="897.848">
-        <tspan x="889.516" y="897.848"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="778.312" y="815.514">
-      <tspan x="778.312" y="815.514">Digital Object Catalog</tspan>
-    </text>
-    <g>
-      <rect style="fill: #fffcd4; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #c8c67c" x="1137.19" y="778.348" width="233.002" height="169.548" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1253.69" y="867.022">
-        <tspan x="1253.69" y="867.022"></tspan>
-      </text>
-    </g>
-    <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1177.03" y="810.896">
-      <tspan x="1177.03" y="810.896">Access Control</tspan>
-    </text>
-    <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="793.034" y="827.429" width="200" height="41.9333" rx="0" ry="0"/>
-      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="893.034" y="852.529">
-        <tspan x="893.034" y="852.529"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="793.034" y="887.429" width="200" height="41.9333" rx="0" ry="0"/>
-      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="893.034" y="912.529">
-        <tspan x="893.034" y="912.529"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #fffcd4; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #c8c67c" x="1163.03" y="827.896" width="180" height="41" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1253.03" y="852.296">
-        <tspan x="1253.03" y="852.296"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #fffcd4; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #c8c67c" x="1165.03" y="887.896" width="180" height="41" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1255.03" y="912.296">
-        <tspan x="1255.03" y="912.296"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #d4e1f2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #7e9de8" x="793.034" y="947.429" width="200" height="41.9333" rx="0" ry="0"/>
-      <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="893.034" y="972.529">
-        <tspan x="893.034" y="972.529"></tspan>
-      </text>
-    </g>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1253.03" y="848.396">
-      <tspan x="1253.03" y="848.396">sam</tspan>
-    </text>
-    <text font-size="13.5467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1255.03" y="908.396">
-      <tspan x="1255.03" y="908.396">sam</tspan>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1015.03" y="929.396">
+      <tspan x="1015.03" y="929.396">sam</tspan>
     </text>
   </g>
 </svg>
