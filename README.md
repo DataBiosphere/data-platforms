@@ -96,7 +96,6 @@ Applications combine a variety of Commons components to carry out specific tasks
 
 Links to source code repositories for implementations are provided below:
 
-=======
 | Component                  |          [Broad][20]     |  [UChicago CDIS][21]  |       [UCSC CGP][22]          |
 |----------------------------|--------------------------|-----------------------|-------------------------------|
 |  *Digital Object Catalog*  |                          |                       |                               |

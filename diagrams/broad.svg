@@ -9,7 +9,7 @@
     </text>
   </g>
   <text font-size="18.0622" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="444.686" y="611.414">
-    <tspan x="444.686" y="611.414">Orchestration/Lirary</tspan>
+    <tspan x="444.686" y="611.414">Indexing and Search</tspan>
     <tspan x="444.686" y="633.992"></tspan>
   </text>
   <g>
@@ -97,7 +97,6 @@
   <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #b3b3b3" x1="790.748" y1="654.927" x2="902.264" y2="656.897"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #b3b3b3" x1="1140.32" y1="434.787" x2="1333.09" y2="435.871"/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="540.252,575 540.252,434.122 905.644,434.122 "/>
-  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="540.252,573.991 540.252,541.424 724.851,541.424 724.851,508.858 "/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1137.75,659 1161.32,659 1161.32,659.058 1184.89,659.058 "/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1504.36,659.144 1461.13,659.144 1461.13,659.058 1417.89,659.058 "/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="1301.39,585.058 1301.39,436.536 1334.76,436.536 "/>
@@ -111,16 +110,6 @@
   </g>
   <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="524.312" y="815.514">
     <tspan x="524.312" y="815.514">N/A</tspan>
-  </text>
-  <g>
-    <rect style="fill: #fffcd4" x="1147.19" y="810.348" width="233.002" height="169.548"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="1147.19" y="810.348" width="233.002" height="169.548"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1263.69" y="899.022">
-      <tspan x="1263.69" y="899.022"></tspan>
-    </text>
-  </g>
-  <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1187.03" y="842.896">
-    <tspan x="1187.03" y="842.896">Access Control</tspan>
   </text>
   <g>
     <rect style="fill: #d4e1f2" x="446.034" y="830.43" width="200" height="41.9333"/>
@@ -137,32 +126,12 @@
     </text>
   </g>
   <g>
-    <rect style="fill: #fffcd4" x="1173.03" y="859.896" width="180" height="41"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="1173.03" y="859.896" width="180" height="41"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1263.03" y="884.296">
-      <tspan x="1263.03" y="884.296"></tspan>
-    </text>
-  </g>
-  <g>
-    <rect style="fill: #fffcd4" x="1175.03" y="919.896" width="180" height="41"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="1175.03" y="919.896" width="180" height="41"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1265.03" y="944.296">
-      <tspan x="1265.03" y="944.296"></tspan>
-    </text>
-  </g>
-  <g>
     <rect style="fill: #d4e1f2" x="446.034" y="950.43" width="200" height="41.9333"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #7e9de8" x="446.034" y="950.43" width="200" height="41.9333"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="546.034" y="975.53">
       <tspan x="546.034" y="975.53"></tspan>
     </text>
   </g>
-  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1263.03" y="880.396">
-    <tspan x="1263.03" y="880.396">sam</tspan>
-  </text>
-  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1265.03" y="940.396">
-    <tspan x="1265.03" y="940.396">sam</tspan>
-  </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="882.08" y="412.25">
     <tspan x="882.08" y="412.25"></tspan>
   </text>
@@ -213,16 +182,63 @@
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="479.08" y="814.5">
     <tspan x="479.08" y="814.5"></tspan>
   </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="510.754" y="606">
+    <tspan x="510.754" y="606"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="410.434" y="690.646">
+    <tspan x="410.434" y="690.646">Orchestration</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="396.754" y="687.25">
+    <tspan x="396.754" y="687.25"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="667.834" y="669.896">
+    <tspan x="667.834" y="669.896">Orchestration</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="413.434" y="645.646">
+    <tspan x="413.434" y="645.646">n/a</tspan>
+  </text>
   <g>
-    <rect style="fill: #a1c380" x="749.168" y="804.5" width="233.002" height="148"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #384f1f" x="749.168" y="804.5" width="233.002" height="148"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="865.669" y="882.4">
-      <tspan x="865.669" y="882.4"></tspan>
+    <g>
+      <rect style="fill: #a1c380" x="1232.17" y="686.5" width="233.002" height="148"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #384f1f" x="1232.17" y="686.5" width="233.002" height="148"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1348.67" y="764.4">
+        <tspan x="1348.67" y="764.4"></tspan>
+      </text>
+    </g>
+    <text font-size="18.0622" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1289.4" y="760.25">
+      <tspan x="1289.4" y="760.25">Leonardo</tspan>
     </text>
   </g>
-  <text font-size="18.0622" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="819.4" y="875.25">
-    <tspan x="819.4" y="875.25">Leonardo</tspan>
-  </text>
-  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="865.669,804.5 865.669,471.858 841.352,471.858 "/>
-  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 10; stroke: #a9a9a9" points="865.754,800 885.699,800 885.699,471.122 905.644,471.122 "/>
+  <g>
+    <g>
+      <rect style="fill: #fffcd4" x="897.194" y="799.348" width="233.002" height="169.548"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="897.194" y="799.348" width="233.002" height="169.548"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1013.69" y="888.022">
+        <tspan x="1013.69" y="888.022"></tspan>
+      </text>
+    </g>
+    <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="937.034" y="831.896">
+      <tspan x="937.034" y="831.896">Access Control</tspan>
+    </text>
+    <g>
+      <rect style="fill: #fffcd4" x="923.034" y="848.896" width="180" height="41"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="923.034" y="848.896" width="180" height="41"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1013.03" y="873.296">
+        <tspan x="1013.03" y="873.296"></tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #fffcd4" x="925.034" y="908.896" width="180" height="41"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 5; stroke: #c8c67c" x="925.034" y="908.896" width="180" height="41"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1015.03" y="933.296">
+        <tspan x="1015.03" y="933.296"></tspan>
+      </text>
+    </g>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1013.03" y="869.396">
+      <tspan x="1013.03" y="869.396">sam</tspan>
+    </text>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1015.03" y="929.396">
+      <tspan x="1015.03" y="929.396">sam</tspan>
+    </text>
+  </g>
 </svg>
