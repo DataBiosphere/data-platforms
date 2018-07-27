@@ -120,7 +120,7 @@ Clients can interact with these applications using an open protocol
 
 * indexd and dos-azul-lambda implement the [Data Object Service][25].
 * Dockstore implements the [Tool Registry Service][24].
-* Cromwell implememnts the [Workflow Execution Service] [29]
+* Cromwell implememnts the [Workflow Execution Service][29]
 
 [1]: https://github.com/broadinstitute/sam
 [2]: https://github.com/DataBiosphere/bond
