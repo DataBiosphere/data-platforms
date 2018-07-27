@@ -105,7 +105,7 @@ Links to source code repositories for implementations are provided below:
 | *Access Control*           |                          |                       |                               |
 | Authorization              |   [sam][1] [bond][2]     |  [fence][7]           |                               |
 | Authentication             |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Analytical Engine          |   [Cromwell][3][*][29]<br>[Leo][28][] |            |  [toil][14]                   |
+| Analytical Engine          |   [Cromwell][3][*][29]<br>[Leonardo][28] |       |  [toil][14]                   |
 | Tool Repository            |   [Agora][4]             |                       |  [Dockstore][15][*][24]       |
 | Workspaces                 |   [Rawls][26]            | [jupyterhub][8]       |                               |
 | *Indexing and Search*      |   [Orchestration][27]    |                       |                               |
