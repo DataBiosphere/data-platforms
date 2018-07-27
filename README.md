@@ -105,8 +105,8 @@ Links to source code repositories for implementations are provided below:
 | *Access Control*           |                          |                       |                               |
 | Authorization              |   [sam][1] [bond][2]     |  [fence][7]           |                               |
 | Authentication             |   [sam][1] [bond][2]     |  [fence][7]           |                               |
-| Analytical Engine          |   [Cromwell][3][*][29]<br>[Leonardo][28] |       |  [toil][14]                   |
-| Tool Repository            |   [Agora][4]             |                       |  [Dockstore][15][*][24]       |
+| Analytical Engine          |   [Cromwell][3][*][29][*][25]<br>[Leonardo][28] |       |  [toil][14]                   |
+| Tool Repository            |   [Agora][4][*][24]      |                       |  [Dockstore][15][*][24]       |
 | Workspaces                 |   [Rawls][26]            | [jupyterhub][8]       |                               |
 | *Indexing and Search*      |   [Orchestration][27]    |                       |                               |
 | Ontology                   |                          | [datadictionary][9]   |                               |
@@ -118,8 +118,8 @@ Links to source code repositories for implementations are provided below:
 Applications marked with a `*` implement a standard interface being developed with the GA4GH. 
 Clients can interact with these applications using an open protocol
 
-* indexd and dos-azul-lambda implement the [Data Object Service][25].
-* Dockstore implements the [Tool Registry Service][24].
+* indexd, dos-azul-lambda and Cromwell implement the [Data Object Service][25].
+* Dockstore and Agora implement the [Tool Registry Service][24].
 * Cromwell implememnts the [Workflow Execution Service][29]
 
 [1]: https://github.com/broadinstitute/sam
