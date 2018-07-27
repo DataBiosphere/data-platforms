@@ -16,11 +16,11 @@ This document will try to make clear when opinions versus summarization are prov
 
 <a name="1"></a>
 
-## Draft 1: KC6 Security, Ethics, and Privacy Use Cases
+## [Draft 1: KC6 Security, Ethics, and Privacy Use Cases](#1) [doc](https://docs.google.com/document/d/1Eizi5W7oV45gmQ-QO3AqXwZOPQdhWGDPX_qecroR3xI/edit?usp=sharing)
 
 ### Summary
 
-A list of Use Cases, numbered UC-* detail various interactions that are expected to be necessary for creating a Commons infrastructure that is appropriate for sensitive data. This includes things like controlled access, logging, auditing, and other compliane and authorization schemes. Each UC is given a "timing" of "Pilot" or "Post-pilot", which addresses the 180-day phase, and after.
+A list of Use Cases, numbered UC-* detail various interactions that are expected to be necessary for creating a Commons Infrastructure that is appropriate for sensitive data. This includes things like controlled access, logging, auditing, and other compliance and authorization schemes. Each UC is given a "timing" of "Pilot" or "Post-pilot", which addresses the 180-day phase, and after.
 
 The Use Cases do not prescribe what software or standards are needed to support the various interactions. Instead, they provide a high-level narrative of what one is expected to be able. For example, it doesn't say "use LDAP" under "UC-3 Authenticate User with Trusted Identity Provider," instead it simply states "the user must be guided through the process of satisfying the criteria through further authentication actions".
 
@@ -165,16 +165,14 @@ It is of concern that in approaching this document, it is unclear the extent to 
 
 #### Add Definitions
 
-We ought to define Data Object Service and link to it.
+We ought to define Data Object Service and link to it. Added to doc 7/26/18 4:59 PM
 
 #### identifiers.org usage
 
 One of the great values we've gained from Team Sodium is via the identifiers.org team. Being able to quickly and easily register a namespace to identifiers.org is very useful and could be better described in the informational document KC2 provides. Additionally link to their work on making it API driven.
 
 #### zenodo DOI versus DataCite DOI
-DataGUIDs Section
 
-This is our section and we 
 If we already have software or data registered to a zenodo DOI, do we need to issue a DataCite DOI? Would it be more correct to say that DOI in general are used, or another section for zenodo?
 
 <a name="4"></a>
@@ -183,8 +181,23 @@ If we already have software or data registered to a zenodo DOI, do we need to is
 
 ### Summary
 
+Another Informational RFC, it provides a directory of APIs that have registered with the DCP. It provides a quick overview of APIs meant to be advertised as part of the Data Commons, but not meant to be exhaustive or exclusive. Many APIs overlap and perform similar tasks, yet are specified in different ways or implemented over different providers.
+
+In general, to respond one must provide information about the development status of their API, an implementation if is available, contact information, and a link to any further documentation.
 
 ### Response
+
+Team Calcium takes an API specification driven approach to developing interoperable software, so this is an opportunity to demonstrate the repeatability of our approach. Having easy to implement APIs that can interoperate with existing systems is one of our strengths, and working in the Open Source towards standards lends our efforts some authority.
+
+Since this document is a registry of APIs, it will likely stay in draft forever, being updated with details as they are made available.
+
+#### Sandboxes
+
+Since some of Team Calcium's Common's Entrants host private, controlled access data in a production environment, we cannot provide separate instances for this effort. To that end, we can simply list our production services where they are available.
+
+#### API Advertising
+
+It would be good to come back to this document to treat it as the onboarding to various systems. Most demos are UI or platform centric, however, as development becomes more API driven this is an easy way to advertise your API. This might also be a good place to link to portals (which may be necessary for generating API keys).
 
 <a name="5"></a>
 
@@ -195,12 +208,52 @@ If we already have software or data registered to a zenodo DOI, do we need to is
 
 ### Response
 
+
+
 <a name="6"></a>
 
 ## [Draft 6: KC7 Initial Products (Crosscut Metadata Model, Stage 1 Metadata Instance, and Exchange Format)](#6) [doc](https://docs.google.com/document/d/1Qf5L4PNBb7zN9H7yqJpTfZCOGO6CfqzyB2V7FpFBqPw/edit?usp=sharing)
 
 ### Summary
 
+This document arrives as a Design Principle, which has more entailments than informational. From https://github.com/dcppc/internal/tree/master/RFC/#design-principle , it means that this RFC can be accepted or rejected as a "new feature or implementation" as a part of the Commons.
+
+It describes three parts, which are the Crosscut Metadata Model, Stage 1 Metadata Instance, and Exchange Format.
+
+DATS is presented as a metadata model useful for describing datasets by capturing their metadata in a specific JSON schema. Links to examples are provided.
+
+The Stage 1 Metadata Instance describes a metadata resource for a few Commons datasets. Some of the metadata across these datasets will be harmonized by the KC7 group. 
+
+The Exchange Format section addresses BDBags and minids. BDBags format is used for archivally storing named data with its checksums. minid is used to identify a dataset or its elements.
 
 ### Response
 
+For a document to arrive as a design principle, this lacks a great deal of the rigor and specification needed. The RFC process provides for a way to arrive at consensus around Design Principles, but this is offered as something further evaluated. DATS as a metadata format makes opinionated decisions and can be interpreted in a variety of ways.
+
+The actual problems of presenting useful metadata indexing, querying, and metadata harmonization are not provided by the offered designs. Bagit as a specification is not evaluated against other standards, including JSON serialization.
+
+#### Make RFC type Informational
+
+To demonstrate that viable possible alternatives were evaluated, this RFC should be made informational. This will help make sure KC7 arrives at solutions based on technical merit.
+
+#### Metadata Instance
+
+A centralized metadata instance may be useful for bootstrapping the Commons, but it implies a centralization of services that goes against the spirit of a Commons. Our aim is to provide interfaces and applications that can communicate with other Full Stacks to reason about datasets. A centralized metadata instance implies the presence of controlled access data (which is addressed briefly in the document).
+
+This appears more like a Full Stack describing its metadata ingestion methods than a Key Capability providing a utility to the community. If it is necessary to create a centralized metadata service to bootstrap the Commons, we might encourage that it isn't maintained in the future.
+
+#### Centralization and minids
+
+A Commons infrastructure is made up of many decoupled services. A centralized identifier registration service seems out of the scope of a Data Commons itself, individual Commons entrants may use a centralized metadata registry like minid/EZID, however, this is impractical for a variety of reasons that we address by using Data GUIDs.
+
+These solutions are not exclusive, however, we suggest that KC7 first collects more information and then later put forward a design principle for the Commons that does not promote a decentralized and federated exchange of data (as opposed to centralization).
+
+Minids are already addressed in the informational DRAFT-3 document as one of the ways items may be identified in the Commons. If minids are in this document as a design principle, then we have assumed that a solution should be a part of the Commons before Full Stack entrants have been able to respond to the Informational work from KC2.
+
+#### Bagit, BDBags
+
+As internet services have built up, files are rarely transferred between services. Instead of receiving a file, your Web browser interprets data models describe in JSON, XML, RDF, etc. and interacts with services to exchange the metadata. Bagit, as is stated in the document, grew up around archival Use Cases. Making this step away from representing files using files is precisely what enabled the proliferation of cloud object stores. You can reason about data using a simple HTTP interface.
+
+To adopt the incidental complexity of using files means the Bagit tooling must present some feature over a more modern, lightweight approach. It is unclear whether a BDBag could itself be entirely represented in a DATS and whether JSON parsing a DATS for a key would carry out the same functions as the bdbag tooling, calling into question the technical merit of the approach.
+
+Commons Entrants should work to automate the exchange of metadata between them. We would suggest a service-oriented as opposed to a file-oriented approach.
