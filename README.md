@@ -44,13 +44,13 @@ well as minimal metadata.
 #### GUID Resolver
 
 Allows globally unique identifiers to be "resolved" to digital objects. For more information 
-please refer to [Identifier Interoperability](https://github.com/DataBiosphere/identifier-interoperability).
+please refer to [Identifier Interoperability](identifier-interoperability).
 
 #### Namespace Service
 
 Identifiers can be given different namespaces or "prefixes". The namespace service allows commons 
 members to easily manage GUIDs across projects and domains. For more information 
-please refer to [Identifier Interoperability](https://github.com/DataBiosphere/identifier-interoperability).
+please refer to [Identifier Interoperability](identifier-interoperability).
 
 #### Data Access
 
@@ -151,7 +151,7 @@ Clients can interact with these applications using an open protocol
 [11]: https://github.com/uc-cdis/peregrine
 [12]: https://github.com/uc-cdis/data-portal
 [13]: https://github.com/DataBiosphere/dos-azul-lambda
-[14]: https://github.com/BD2KGenomics/toil
+[14]: https://github.com/DataBiosphere/toil
 [15]: https://github.com/ga4gh/dockstore
 [16]: https://github.com/DataBiosphere/azul
 [17]: https://github.com/DataBiosphere/azul
@@ -162,7 +162,7 @@ Clients can interact with these applications using an open protocol
 [22]: https://cgl.genomics.ucsc.edu/
 [23]: https://github.com/DataBiosphere/cgp-data-store
 [24]: https://github.com/ga4gh/tool-registry-service-schemas
-[25]: https://github.com/ga4gh/data-object-service-schemas
+[25]: https://github.com/ga4gh/data-repository-service-schemas
 [26]: https://github.com/broadinstitute/rawls
 [27]: https://github.com/broadinstitute/firecloud-orchestration
 [28]: https://github.com/DataBiosphere/leonardo
