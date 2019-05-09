@@ -22,12 +22,16 @@ Communication between data platforms requires that metadata are serialized
 in a useful and predictable manner. This document describes approaches and 
 case studies in use by some components.
 
+View the [Metadata Serialization](metadata-serialization) document.
+
 ## [Identifier Interoperability](identifier-interoperability)
 
 When the same metadata are present in multiple locations, it is critical to 
 provide guarantees of identity that are useful and portable. This document 
 describes approaches to presenting and using interfaces that allow identifiers 
 to be usefully exchanged.
+
+View the [Identifier Interoperability](identifier-interoperability) document.
 
 ## Prototype
 
