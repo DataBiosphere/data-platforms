@@ -1,7 +1,10 @@
-# Commons Alliance Components
+# Data Platforms
 
-This repository will try to explain the components that take part 
-in the Team Calcium NIH Data Commons Pilot (and beyond).
+This repository gathers together components that take part 
+in the Commons Alliance. These components describe interfaces 
+and features that can be assembled to create "data platforms" useful for 
+storing, and performing reproducible analyses on data and 
+metadata.
 
 This is a living document.
 
@@ -12,6 +15,19 @@ https://databiosphere.github.io/data-platforms/
 For more background read the [Data Biosphere post](https://medium.com/@benedictpaten/a-data-biosphere-for-biomedical-research-d212bbfae95d).
 
 Visit the [DataBiosphere github organization](https://github.com/DataBiosphere).
+
+## [Metadata Serialization](metadata-serialization)
+
+Communication between data platforms requires that metadata are serialized 
+in a useful and predictable manner. This document describes approaches and 
+case studies in use by some components.
+
+## [Identifier Interoperability](identifier-interoperability)
+
+When the same metadata are present in multiple locations, it is critical to 
+provide guarantees of identity that are useful and portable. This document 
+describes approaches to presenting and using interfaces that allow identifiers 
+to be usefully exchanged.
 
 ## Prototype
 
