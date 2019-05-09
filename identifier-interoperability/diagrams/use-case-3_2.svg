@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="35cm" height="22cm" viewBox="546 228 688 435" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffffff" d="M 882.033 296 L 973.367,296 C 985.977,296 996.2,311.894 996.2,331.5 C 996.2,351.106 985.977,367 973.367,367 L 882.033,367 C 869.423,367 859.2,351.106 859.2,331.5 C 859.2,311.894 869.423,296 882.033,296z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 882.033 296 L 973.367,296 C 985.977,296 996.2,311.894 996.2,331.5 C 996.2,351.106 985.977,367 973.367,367 L 882.033,367 C 869.423,367 859.2,351.106 859.2,331.5 C 859.2,311.894 869.423,296 882.033,296"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="927.7" y="311.5">
+      <tspan x="927.7" y="311.5">Data Object</tspan>
+      <tspan x="927.7" y="327.5">id: a</tspan>
+      <tspan x="927.7" y="343.5">urls: [U]</tspan>
+      <tspan x="927.7" y="359.5">aliases: [def]</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1120.53 463 L 1229.2,463 C 1212.9,470.6 1207.47,474.4 1207.47,482 C 1207.47,489.6 1212.9,493.4 1229.2,501 L 1120.53,501 C 1104.23,493.4 1098.8,489.6 1098.8,482 C 1098.8,474.4 1104.23,470.6 1120.53,463z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1120.53 463 L 1229.2,463 C 1212.9,470.6 1207.47,474.4 1207.47,482 C 1207.47,489.6 1212.9,493.4 1229.2,501 L 1120.53,501 C 1104.23,493.4 1098.8,489.6 1098.8,482 C 1098.8,474.4 1104.23,470.6 1120.53,463"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1164" y="486">
+      <tspan x="1164" y="486">DOS Client</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 871.212 229 L 978.512,229 C 993.328,229 1005.34,241.312 1005.34,256.5 C 1005.34,271.688 993.328,284 978.512,284 L 871.212,284 C 856.397,284 844.387,271.688 844.387,256.5 C 844.387,241.312 856.397,229 871.212,229z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 871.212 229 L 978.512,229 C 993.328,229 1005.34,241.312 1005.34,256.5 C 1005.34,271.688 993.328,284 978.512,284 L 871.212,284 C 856.397,284 844.387,271.688 844.387,256.5 C 844.387,241.312 856.397,229 871.212,229"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="924.862" y="252.5">
+      <tspan x="924.862" y="252.5">ListDataObjects</tspan>
+      <tspan x="924.862" y="268.5">alias: def</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="548" y="278" width="160" height="99"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="548" y="278" width="160" height="99"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="628" y="331.4">
+      <tspan x="628" y="331.4">Platform A</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="676.3" y="289" width="79.9" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="676.3" y="289" width="79.9" height="79"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="716.25" y="316.4">
+      <tspan x="716.25" y="316.4">Data</tspan>
+      <tspan x="716.25" y="332.4">Object</tspan>
+      <tspan x="716.25" y="348.4">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="549.2" y="399" width="160" height="99"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="549.2" y="399" width="160" height="99"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="629.2" y="452.4">
+      <tspan x="629.2" y="452.4">Platform B</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="677.5" y="410" width="79.9" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="677.5" y="410" width="79.9" height="79"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="717.45" y="437.4">
+      <tspan x="717.45" y="437.4">Data</tspan>
+      <tspan x="717.45" y="453.4">Object</tspan>
+      <tspan x="717.45" y="469.4">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="547.4" y="524" width="160" height="99"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="547.4" y="524" width="160" height="99"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="627.4" y="577.4">
+      <tspan x="627.4" y="577.4">Platform C</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="675.7" y="535" width="79.9" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="675.7" y="535" width="79.9" height="79"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="715.65" y="562.4">
+      <tspan x="715.65" y="562.4">Data</tspan>
+      <tspan x="715.65" y="578.4">Object</tspan>
+      <tspan x="715.65" y="594.4">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 844.388 256.5 C 771.144,256.5 830.448,328.5 766.941,328.5"/>
+    <polygon style="fill: #000000" points="759.441,328.5 769.441,323.5 766.941,328.5 769.441,333.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="759.441,328.5 769.441,323.5 766.941,328.5 769.441,333.5 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 880.025 527 L 987.325,527 C 1002.14,527 1014.15,539.312 1014.15,554.5 C 1014.15,569.688 1002.14,582 987.325,582 L 880.025,582 C 865.21,582 853.2,569.688 853.2,554.5 C 853.2,539.312 865.21,527 880.025,527z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 880.025 527 L 987.325,527 C 1002.14,527 1014.15,539.312 1014.15,554.5 C 1014.15,569.688 1002.14,582 987.325,582 L 880.025,582 C 865.21,582 853.2,569.688 853.2,554.5 C 853.2,539.312 865.21,527 880.025,527"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="933.675" y="550.5">
+      <tspan x="933.675" y="550.5">ListDataObjects</tspan>
+      <tspan x="933.675" y="566.5">alias: def</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 873.225 381 L 980.525,381 C 995.34,381 1007.35,393.312 1007.35,408.5 C 1007.35,423.688 995.34,436 980.525,436 L 873.225,436 C 858.41,436 846.4,423.688 846.4,408.5 C 846.4,393.312 858.41,381 873.225,381z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 873.225 381 L 980.525,381 C 995.34,381 1007.35,393.312 1007.35,408.5 C 1007.35,423.688 995.34,436 980.525,436 L 873.225,436 C 858.41,436 846.4,423.688 846.4,408.5 C 846.4,393.312 858.41,381 873.225,381"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="926.875" y="404.5">
+      <tspan x="926.875" y="404.5">ListDataObjects</tspan>
+      <tspan x="926.875" y="420.5">alias: def</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 882.033 445 L 973.367,445 C 985.977,445 996.2,460.894 996.2,480.5 C 996.2,500.106 985.977,516 973.367,516 L 882.033,516 C 869.423,516 859.2,500.106 859.2,480.5 C 859.2,460.894 869.423,445 882.033,445z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 882.033 445 L 973.367,445 C 985.977,445 996.2,460.894 996.2,480.5 C 996.2,500.106 985.977,516 973.367,516 L 882.033,516 C 869.423,516 859.2,500.106 859.2,480.5 C 859.2,460.894 869.423,445 882.033,445"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="927.7" y="460.5">
+      <tspan x="927.7" y="460.5">Data Object</tspan>
+      <tspan x="927.7" y="476.5">id: b</tspan>
+      <tspan x="927.7" y="492.5">urls: [U, V]</tspan>
+      <tspan x="927.7" y="508.5">aliases: [def]</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 878.05 591 L 981.75,591 C 996.068,591 1007.67,606.894 1007.67,626.5 C 1007.67,646.106 996.068,662 981.75,662 L 878.05,662 C 863.732,662 852.125,646.106 852.125,626.5 C 852.125,606.894 863.732,591 878.05,591z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 878.05 591 L 981.75,591 C 996.068,591 1007.67,606.894 1007.67,626.5 C 1007.67,646.106 996.068,662 981.75,662 L 878.05,662 C 863.732,662 852.125,646.106 852.125,626.5 C 852.125,606.894 863.732,591 878.05,591"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="929.9" y="606.5">
+      <tspan x="929.9" y="606.5">Data Object</tspan>
+      <tspan x="929.9" y="622.5">id: c</tspan>
+      <tspan x="929.9" y="638.5">urls: [X]</tspan>
+      <tspan x="929.9" y="654.5">aliases: [def, z]</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1098.83 482 C 1031.86,482 1074.33,408.5 1017.09,408.5"/>
+    <polygon style="fill: #000000" points="1009.59,408.5 1019.59,403.5 1017.09,408.5 1019.59,413.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1009.59,408.5 1019.59,403.5 1017.09,408.5 1019.59,413.5 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1098.82 482 C 1034.1,482 1078.87,554.5 1023.89,554.5"/>
+    <polygon style="fill: #000000" points="1016.39,554.5 1026.39,549.5 1023.89,554.5 1026.39,559.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1016.39,554.5 1026.39,549.5 1023.89,554.5 1026.39,559.5 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1098.82 482 C 1029.52,482 1074.62,256.5 1015.05,256.5"/>
+    <polygon style="fill: #000000" points="1007.55,256.5 1017.55,251.5 1015.05,256.5 1017.55,261.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1007.55,256.5 1017.55,251.5 1015.05,256.5 1017.55,261.5 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 996.208 331.5 C 1062.91,331.5 1032.25,482 1089.21,482"/>
+    <polygon style="fill: #000000" points="1096.71,482 1086.71,487 1089.21,482 1086.71,477 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1096.71,482 1086.71,487 1089.21,482 1086.71,477 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 996.19 480.5 C 1062.89,480.5 1032.15,482 1089.11,482"/>
+    <polygon style="fill: #000000" points="1096.61,482 1086.61,487 1089.11,482 1086.61,477 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1096.61,482 1086.61,487 1089.11,482 1086.61,477 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1007.68 626.5 C 1073.64,626.5 1032.83,482 1089.06,482"/>
+    <polygon style="fill: #000000" points="1096.56,482 1086.56,487 1089.06,482 1086.56,477 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1096.56,482 1086.56,487 1089.06,482 1086.56,477 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 846.407 408.5 C 776.878,408.5 827.877,449.5 768.084,449.5"/>
+    <polygon style="fill: #000000" points="760.584,449.5 770.584,444.5 768.084,449.5 770.584,454.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="760.584,449.5 770.584,444.5 768.084,449.5 770.584,454.5 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 853.196 554.5 C 780.812,554.5 828.985,574.5 766.337,574.5"/>
+    <polygon style="fill: #000000" points="758.837,574.5 768.837,569.5 766.337,574.5 768.837,579.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="758.837,574.5 768.837,569.5 766.337,574.5 768.837,579.5 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 757.204 328.5 C 827.406,328.5 789.013,331.5 849.478,331.5"/>
+    <polygon style="fill: #000000" points="856.978,331.5 846.978,336.5 849.478,331.5 846.978,326.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="856.978,331.5 846.978,336.5 849.478,331.5 846.978,326.5 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 758.401 449.5 C 828.204,449.5 789.395,480.5 849.462,480.5"/>
+    <polygon style="fill: #000000" points="856.962,480.5 846.962,485.5 849.462,480.5 846.962,475.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="856.962,480.5 846.962,485.5 849.462,480.5 846.962,475.5 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 756.584 574.5 C 827.715,574.5 781.018,626.5 842.413,626.5"/>
+    <polygon style="fill: #000000" points="849.913,626.5 839.913,631.5 842.413,626.5 839.913,621.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="849.913,626.5 839.913,631.5 842.413,626.5 839.913,621.5 "/>
+  </g>
+</svg>

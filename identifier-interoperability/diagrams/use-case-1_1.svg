@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="28cm" height="8cm" viewBox="163 84 547 146" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffffff" d="M 431.033 85 L 522.367,85 C 534.977,85 545.2,100.894 545.2,120.5 C 545.2,140.106 534.977,156 522.367,156 L 431.033,156 C 418.423,156 408.2,140.106 408.2,120.5 C 408.2,100.894 418.423,85 431.033,85z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 431.033 85 L 522.367,85 C 534.977,85 545.2,100.894 545.2,120.5 C 545.2,140.106 534.977,156 522.367,156 L 431.033,156 C 418.423,156 408.2,140.106 408.2,120.5 C 408.2,100.894 418.423,85 431.033,85"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="476.7" y="100.5">
+      <tspan x="476.7" y="100.5">Data Object</tspan>
+      <tspan x="476.7" y="116.5">id: a</tspan>
+      <tspan x="476.7" y="132.5">urls: [U]</tspan>
+      <tspan x="476.7" y="148.5">aliases: []</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 164.2 121.333 C 182.8,106.083 192.1,101 210.7,101 C 229.3,101 238.6,106.083 257.2,121.333 L 257.2,202.667 C 238.6,217.917 229.3,223 210.7,223 C 192.1,223 182.8,217.917 164.2,202.667 L 164.2,121.333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 164.2 121.333 C 182.8,106.083 192.1,101 210.7,101 C 229.3,101 238.6,106.083 257.2,121.333 L 257.2,202.667 C 238.6,217.917 229.3,223 210.7,223 C 192.1,223 182.8,217.917 164.2,202.667 L 164.2,121.333"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 164.2 121.333 C 182.8,136.583 192.1,141.667 210.7,141.667 C 229.3,141.667 238.6,136.583 257.2,121.333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210.7" y="176.167">
+      <tspan x="210.7" y="176.167">Object Store</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="299.3" y="125" width="79.9" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="299.3" y="125" width="79.9" height="79"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="339.25" y="152.4">
+      <tspan x="339.25" y="152.4">Data</tspan>
+      <tspan x="339.25" y="168.4">Object</tspan>
+      <tspan x="339.25" y="184.4">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="380.198" y1="151.392" x2="402.218" y2="144.343"/>
+    <polygon style="fill: #000000" points="409.36,142.056 401.361,149.867 402.218,144.343 398.312,140.343 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="409.36,142.056 401.361,149.867 402.218,144.343 398.312,140.343 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="258.184" y1="162.923" x2="288.575" y2="163.514"/>
+    <polygon style="fill: #000000" points="296.074,163.66 285.978,168.465 288.575,163.514 286.173,158.467 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="296.074,163.66 285.978,168.465 288.575,163.514 286.173,158.467 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 596.533 139 L 705.2,139 C 688.9,146.6 683.467,150.4 683.467,158 C 683.467,165.6 688.9,169.4 705.2,177 L 596.533,177 C 580.233,169.4 574.8,165.6 574.8,158 C 574.8,150.4 580.233,146.6 596.533,139z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 596.533 139 L 705.2,139 C 688.9,146.6 683.467,150.4 683.467,158 C 683.467,165.6 688.9,169.4 705.2,177 L 596.533,177 C 580.233,169.4 574.8,165.6 574.8,158 C 574.8,150.4 580.233,146.6 596.533,139"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="640" y="162">
+      <tspan x="640" y="162">DOS Client</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="544.579" y1="133.494" x2="578.814" y2="140.047"/>
+    <polygon style="fill: #000000" points="586.18,141.457 575.418,144.488 578.814,140.047 577.299,134.666 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="586.18,141.457 575.418,144.488 578.814,140.047 577.299,134.666 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 429.313 173 L 530.413,173 C 544.372,173 555.688,185.312 555.688,200.5 C 555.688,215.688 544.372,228 530.413,228 L 429.313,228 C 415.354,228 404.038,215.688 404.038,200.5 C 404.038,185.312 415.354,173 429.313,173z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 429.313 173 L 530.413,173 C 544.372,173 555.688,185.312 555.688,200.5 C 555.688,215.688 544.372,228 530.413,228 L 429.313,228 C 415.354,228 404.038,215.688 404.038,200.5 C 404.038,185.312 415.354,173 429.313,173"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="479.863" y="196.5">
+      <tspan x="479.863" y="196.5">GetDataObject</tspan>
+      <tspan x="479.863" y="212.5">id: a</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="591.736" y1="175.831" x2="549.601" y2="185.122"/>
+    <polygon style="fill: #000000" points="542.277,186.737 550.966,179.701 549.601,185.122 553.119,189.467 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="542.277,186.737 550.966,179.701 549.601,185.122 553.119,189.467 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="409.127" y1="182.39" x2="389.62" y2="177.396"/>
+    <polygon style="fill: #000000" points="382.354,175.536 393.282,173.172 389.62,177.396 390.801,182.86 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="382.354,175.536 393.282,173.172 389.62,177.396 390.801,182.86 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="287.2" y="221">
+    <tspan x="287.2" y="221">http://dos.server</tspan>
+  </text>
+</svg>
