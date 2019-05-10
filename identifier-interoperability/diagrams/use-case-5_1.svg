@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="24cm" height="24cm" viewBox="595 73 461 473" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="782.15" y="313" width="100" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="782.15" y="313" width="100" height="79"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="832.15" y="348.4">
+      <tspan x="832.15" y="348.4">Namespace</tspan>
+      <tspan x="832.15" y="364.4">Service</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="890" y="356">
+    <tspan x="890" y="356">http://prefix.service</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="914.2" y="151" width="100" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="914.2" y="151" width="100" height="79"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="964.2" y="178.4">
+      <tspan x="964.2" y="178.4">prefix:ghi</tspan>
+      <tspan x="964.2" y="194.4">Identifier</tspan>
+      <tspan x="964.2" y="210.4">Resolver</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="643.4" y="151" width="100" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="643.4" y="151" width="100" height="79"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="693.4" y="178.4">
+      <tspan x="693.4" y="178.4">prefix: abc</tspan>
+      <tspan x="693.4" y="194.4">Identifier</tspan>
+      <tspan x="693.4" y="210.4">Resolver</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="780.2" y="151" width="100" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="780.2" y="151" width="100" height="79"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="830.2" y="178.4">
+      <tspan x="830.2" y="178.4">prefix: jkl</tspan>
+      <tspan x="830.2" y="194.4">Identifier</tspan>
+      <tspan x="830.2" y="210.4">Resolver</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="596" y="78" width="62" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="596" y="78" width="62" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="627" y="100.9">
+      <tspan x="627" y="100.9">DOS</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="682.2" y="79" width="62" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="682.2" y="79" width="62" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="713.2" y="101.9">
+      <tspan x="713.2" y="101.9">DOS</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="808.4" y="77" width="62" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="808.4" y="77" width="62" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="839.4" y="99.9">
+      <tspan x="839.4" y="99.9">DOS</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="912.6" y="75" width="62" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="912.6" y="75" width="62" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="943.6" y="97.9">
+      <tspan x="943.6" y="97.9">DOS</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="992.8" y="74" width="62" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="992.8" y="74" width="62" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1023.8" y="96.9">
+      <tspan x="1023.8" y="96.9">DOS</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="664.634" y1="149.993" x2="646.846" y2="124.946"/>
+    <polygon style="fill: #000000" points="642.504,118.831 652.37,124.089 646.846,124.946 644.217,129.879 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="642.504,118.831 652.37,124.089 646.846,124.946 644.217,129.879 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="702.067" y1="150.009" x2="706.884" y2="127.506"/>
+    <polygon style="fill: #000000" points="708.454,120.172 711.25,130.998 706.884,127.506 701.472,128.904 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="708.454,120.172 711.25,130.998 706.884,127.506 701.472,128.904 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="834.14" y1="150.033" x2="836.51" y2="125.682"/>
+    <polygon style="fill: #000000" points="837.237,118.217 841.245,128.654 836.51,125.682 831.292,127.685 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="837.237,118.217 841.245,128.654 836.51,125.682 831.292,127.685 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="955.553" y1="149.995" x2="949.9" y2="123.512"/>
+    <polygon style="fill: #000000" points="948.334,116.177 955.312,124.913 949.9,123.512 945.532,127.001 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="948.334,116.177 955.312,124.913 949.9,123.512 945.532,127.001 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="988.951" y1="150.01" x2="1006.49" y2="121.314"/>
+    <polygon style="fill: #000000" points="1010.4,114.915 1009.45,126.055 1006.49,121.314 1000.92,120.839 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1010.4,114.915 1009.45,126.055 1006.49,121.314 1000.92,120.839 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="770.815" y1="251.992" x2="752.017" y2="237.061"/>
+    <polygon style="fill: #000000" points="746.145,232.396 757.085,234.7 752.017,237.061 750.865,242.531 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="746.145,232.396 757.085,234.7 752.017,237.061 750.865,242.531 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 651.725 417 L 778.625,417 C 796.146,417 810.35,425.283 810.35,435.5 C 810.35,445.717 796.146,454 778.625,454 L 651.725,454 C 634.204,454 620,445.717 620,435.5 C 620,425.283 634.204,417 651.725,417z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 651.725 417 L 778.625,417 C 796.146,417 810.35,425.283 810.35,435.5 C 810.35,445.717 796.146,454 778.625,454 L 651.725,454 C 634.204,454 620,445.717 620,435.5 C 620,425.283 634.204,417 651.725,417"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="715.175" y="439.5">
+      <tspan x="715.175" y="439.5">Get abc:myID</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 875.925 412.5 L 1002.83,412.5 C 1020.35,412.5 1034.55,421.007 1034.55,431.5 C 1034.55,441.993 1020.35,450.5 1002.83,450.5 L 875.925,450.5 C 858.404,450.5 844.2,441.993 844.2,431.5 C 844.2,421.007 858.404,412.5 875.925,412.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 875.925 412.5 L 1002.83,412.5 C 1020.35,412.5 1034.55,421.007 1034.55,431.5 C 1034.55,441.993 1020.35,450.5 1002.83,450.5 L 875.925,450.5 C 858.404,450.5 844.2,441.993 844.2,431.5 C 844.2,421.007 858.404,412.5 875.925,412.5"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="939.375" y="427.5">
+      <tspan x="939.375" y="427.5">Redirect to</tspan>
+      <tspan x="939.375" y="443.5">Identifer Service</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 669.933 501 L 778.6,501 C 762.3,508.2 756.867,511.8 756.867,519 C 756.867,526.2 762.3,529.8 778.6,537 L 669.933,537 C 653.633,529.8 648.2,526.2 648.2,519 C 648.2,511.8 653.633,508.2 669.933,501z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 669.933 501 L 778.6,501 C 762.3,508.2 756.867,511.8 756.867,519 C 756.867,526.2 762.3,529.8 778.6,537 L 669.933,537 C 653.633,529.8 648.2,526.2 648.2,519 C 648.2,511.8 653.633,508.2 669.933,501"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="713.4" y="523">
+      <tspan x="713.4" y="523">DOS Client</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="738.982" y1="499.99" x2="725.745" y2="464.133"/>
+    <polygon style="fill: #000000" points="723.148,457.097 731.301,464.746 725.745,464.133 721.92,468.209 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="723.148,457.097 731.301,464.746 725.745,464.133 721.92,468.209 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="742.662" y1="415.996" x2="773.233" y2="394.305"/>
+    <polygon style="fill: #000000" points="779.35,389.965 774.088,399.829 773.233,394.305 768.301,391.674 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="779.35,389.965 774.088,399.829 773.233,394.305 768.301,391.674 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="883.151" y1="390.076" x2="904.403" y2="405.734"/>
+    <polygon style="fill: #000000" points="910.441,410.183 899.425,408.276 904.403,405.734 905.356,400.226 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="910.441,410.183 899.425,408.276 904.403,405.734 905.356,400.226 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 913.033 474 L 1004.37,474 C 1016.98,474 1027.2,489.894 1027.2,509.5 C 1027.2,529.106 1016.98,545 1004.37,545 L 913.033,545 C 900.423,545 890.2,529.106 890.2,509.5 C 890.2,489.894 900.423,474 913.033,474z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 913.033 474 L 1004.37,474 C 1016.98,474 1027.2,489.894 1027.2,509.5 C 1027.2,529.106 1016.98,545 1004.37,545 L 913.033,545 C 900.423,545 890.2,529.106 890.2,509.5 C 890.2,489.894 900.423,474 913.033,474"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="958.7" y="489.5">
+      <tspan x="958.7" y="489.5">Data Object</tspan>
+      <tspan x="958.7" y="505.5">id: a</tspan>
+      <tspan x="958.7" y="521.5">urls: [U]</tspan>
+      <tspan x="958.7" y="537.5">aliases: [def]</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="889.362" y1="512.597" x2="767.631" y2="518.034"/>
+    <polygon style="fill: #000000" points="760.138,518.369 769.905,512.927 767.631,518.034 770.352,522.917 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="760.138,518.369 769.905,512.927 767.631,518.034 770.352,522.917 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="944.331" y1="451.505" x2="947.317" y2="463.554"/>
+    <polygon style="fill: #000000" points="949.12,470.834 941.862,462.33 947.317,463.554 951.569,459.925 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="949.12,470.834 941.862,462.33 947.317,463.554 951.569,459.925 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 731.925 253 L 858.825,253 C 876.346,253 890.55,261.283 890.55,271.5 C 890.55,281.717 876.346,290 858.825,290 L 731.925,290 C 714.404,290 700.2,281.717 700.2,271.5 C 700.2,261.283 714.404,253 731.925,253z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 731.925 253 L 858.825,253 C 876.346,253 890.55,261.283 890.55,271.5 C 890.55,281.717 876.346,290 858.825,290 L 731.925,290 C 714.404,290 700.2,281.717 700.2,271.5 C 700.2,261.283 714.404,253 731.925,253"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="795.375" y="275.5">
+      <tspan x="795.375" y="275.5">Get myID</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="813.758" y1="311.99" x2="808.257" y2="299.874"/>
+    <polygon style="fill: #000000" points="805.156,293.044 813.843,300.083 808.257,299.874 804.738,304.217 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="805.156,293.044 813.843,300.083 808.257,299.874 804.738,304.217 "/>
+  </g>
+</svg>

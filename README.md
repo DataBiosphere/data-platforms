@@ -1,7 +1,10 @@
-# Commons Alliance Components
+# Data Platforms
 
-This repository will try to explain the components that take part 
-in the Team Calcium NIH Data Commons Pilot (and beyond).
+This repository gathers together components that take part 
+in the Commons Alliance. These components describe interfaces 
+and features that can be assembled to create "data platforms" useful for 
+storing, and performing reproducible analyses on data and 
+metadata.
 
 This is a living document.
 
@@ -12,6 +15,23 @@ https://databiosphere.github.io/data-platforms/
 For more background read the [Data Biosphere post](https://medium.com/@benedictpaten/a-data-biosphere-for-biomedical-research-d212bbfae95d).
 
 Visit the [DataBiosphere github organization](https://github.com/DataBiosphere).
+
+## [Metadata Serialization](metadata-serialization)
+
+Communication between data platforms requires that metadata are serialized 
+in a useful and predictable manner. This document describes approaches and 
+case studies in use by some components.
+
+View the [Metadata Serialization](metadata-serialization) document.
+
+## [Identifier Interoperability](identifier-interoperability)
+
+When the same metadata are present in multiple locations, it is critical to 
+provide guarantees of identity that are useful and portable. This document 
+describes approaches to presenting and using interfaces that allow identifiers 
+to be usefully exchanged.
+
+View the [Identifier Interoperability](identifier-interoperability) document.
 
 ## Prototype
 
@@ -28,13 +48,13 @@ well as minimal metadata.
 #### GUID Resolver
 
 Allows globally unique identifiers to be "resolved" to digital objects. For more information 
-please refer to [Identifier Interoperability](https://github.com/DataBiosphere/identifier-interoperability).
+please refer to [Identifier Interoperability](identifier-interoperability).
 
 #### Namespace Service
 
 Identifiers can be given different namespaces or "prefixes". The namespace service allows commons 
 members to easily manage GUIDs across projects and domains. For more information 
-please refer to [Identifier Interoperability](https://github.com/DataBiosphere/identifier-interoperability).
+please refer to [Identifier Interoperability](identifier-interoperability).
 
 #### Data Access
 
@@ -135,7 +155,7 @@ Clients can interact with these applications using an open protocol
 [11]: https://github.com/uc-cdis/peregrine
 [12]: https://github.com/uc-cdis/data-portal
 [13]: https://github.com/DataBiosphere/dos-azul-lambda
-[14]: https://github.com/BD2KGenomics/toil
+[14]: https://github.com/DataBiosphere/toil
 [15]: https://github.com/ga4gh/dockstore
 [16]: https://github.com/DataBiosphere/azul
 [17]: https://github.com/DataBiosphere/azul
@@ -146,7 +166,7 @@ Clients can interact with these applications using an open protocol
 [22]: https://cgl.genomics.ucsc.edu/
 [23]: https://github.com/DataBiosphere/cgp-data-store
 [24]: https://github.com/ga4gh/tool-registry-service-schemas
-[25]: https://github.com/ga4gh/data-object-service-schemas
+[25]: https://github.com/ga4gh/data-repository-service-schemas
 [26]: https://github.com/broadinstitute/rawls
 [27]: https://github.com/broadinstitute/firecloud-orchestration
 [28]: https://github.com/DataBiosphere/leonardo

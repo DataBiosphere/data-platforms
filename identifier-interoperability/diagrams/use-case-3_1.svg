@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="21cm" height="8cm" viewBox="174 84 412 146" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffffff" d="M 307.033 85 L 398.367,85 C 410.977,85 421.2,100.894 421.2,120.5 C 421.2,140.106 410.977,156 398.367,156 L 307.033,156 C 294.423,156 284.2,140.106 284.2,120.5 C 284.2,100.894 294.423,85 307.033,85z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 307.033 85 L 398.367,85 C 410.977,85 421.2,100.894 421.2,120.5 C 421.2,140.106 410.977,156 398.367,156 L 307.033,156 C 294.423,156 284.2,140.106 284.2,120.5 C 284.2,100.894 294.423,85 307.033,85"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="352.7" y="100.5">
+      <tspan x="352.7" y="100.5">Data Object</tspan>
+      <tspan x="352.7" y="116.5">id: a</tspan>
+      <tspan x="352.7" y="132.5">urls: [U]</tspan>
+      <tspan x="352.7" y="148.5">aliases: [def]</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="175.3" y="125" width="79.9" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="175.3" y="125" width="79.9" height="79"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="215.25" y="152.4">
+      <tspan x="215.25" y="152.4">Data</tspan>
+      <tspan x="215.25" y="168.4">Object</tspan>
+      <tspan x="215.25" y="184.4">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="256.198" y1="151.392" x2="278.218" y2="144.343"/>
+    <polygon style="fill: #000000" points="285.36,142.056 277.361,149.867 278.218,144.343 274.312,140.343 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="285.36,142.056 277.361,149.867 278.218,144.343 274.312,140.343 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 472.533 139 L 581.2,139 C 564.9,146.6 559.467,150.4 559.467,158 C 559.467,165.6 564.9,169.4 581.2,177 L 472.533,177 C 456.233,169.4 450.8,165.6 450.8,158 C 450.8,150.4 456.233,146.6 472.533,139z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 472.533 139 L 581.2,139 C 564.9,146.6 559.467,150.4 559.467,158 C 559.467,165.6 564.9,169.4 581.2,177 L 472.533,177 C 456.233,169.4 450.8,165.6 450.8,158 C 450.8,150.4 456.233,146.6 472.533,139"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="516" y="162">
+      <tspan x="516" y="162">DOS Client</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="420.579" y1="133.494" x2="454.814" y2="140.047"/>
+    <polygon style="fill: #000000" points="462.18,141.457 451.418,144.488 454.814,140.047 453.299,134.666 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="462.18,141.457 451.418,144.488 454.814,140.047 453.299,134.666 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 302.212 173 L 409.512,173 C 424.328,173 436.337,185.312 436.337,200.5 C 436.337,215.688 424.328,228 409.512,228 L 302.212,228 C 287.397,228 275.387,215.688 275.387,200.5 C 275.387,185.312 287.397,173 302.212,173z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 302.212 173 L 409.512,173 C 424.328,173 436.337,185.312 436.337,200.5 C 436.337,215.688 424.328,228 409.512,228 L 302.212,228 C 287.397,228 275.387,215.688 275.387,200.5 C 275.387,185.312 287.397,173 302.212,173"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="355.862" y="196.5">
+      <tspan x="355.862" y="196.5">ListDataObjects</tspan>
+      <tspan x="355.862" y="212.5">alias: def</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="467.748" y1="175.829" x2="441.258" y2="181.67"/>
+    <polygon style="fill: #000000" points="433.934,183.285 442.623,176.249 441.258,181.67 444.776,186.014 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="433.934,183.285 442.623,176.249 441.258,181.67 444.776,186.014 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="281.643" y1="181.498" x2="265.619" y2="177.396"/>
+    <polygon style="fill: #000000" points="258.354,175.536 269.281,173.172 265.619,177.396 266.801,182.86 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="258.354,175.536 269.281,173.172 265.619,177.396 266.801,182.86 "/>
+  </g>
+</svg>
